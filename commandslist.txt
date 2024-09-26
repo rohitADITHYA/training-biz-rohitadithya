@@ -1,322 +1,457 @@
-    1  2024-09-26 07:05:47 ssh rohit@13.60.210.225
-    2  2024-09-26 07:05:47 logout
-    3  2024-09-26 07:05:47 nano /etc/ssh/sshd_config
-    4  2024-09-26 07:05:47 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-    5  2024-09-26 07:05:47 exit
-    6  2024-09-26 07:05:47 vi
-    7  2024-09-26 07:05:47 vi /etc/ssh/sshd-config
-    8  2024-09-26 07:05:47 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
-    9  2024-09-26 07:05:47 lscpu
-   10  2024-09-26 07:05:47 cat /etc/os-release
-   11  2024-09-26 07:05:47 vim /etc/ssh/sshd-config
-   12  2024-09-26 07:05:47 emacs /etc/ssh/sshd-config
-   13  2024-09-26 07:05:47 ed /etc/ssh/sshd-config
-   14  2024-09-26 07:05:47 echo /etc/ssh/sshd-config
-   15  2024-09-26 07:05:47 ssh -i "C:\Users\rohit.sonkoju\Downloads\rohitadithya-biz-training-keypair.pem" ec2-user@13.60.242.235
-   16  2024-09-26 07:05:47 sudo vi /etc/ssh/sshd_config
-   17  2024-09-26 07:05:47 sudo systemctl restart sshd
-   18  2024-09-26 07:05:47 passwd
-   19  2024-09-26 07:05:47 exit
-   20  2024-09-26 07:05:47 rebooy
-   21  2024-09-26 07:05:47 reboot
-   22  2024-09-26 07:05:47 passwd
-   23  2024-09-26 07:05:47 exit
-   24  2024-09-26 07:05:47 passwd ec2-user
-   25  2024-09-26 07:05:47 pwd
-   26  2024-09-26 07:05:47 vi /etc/ssh/sshd-config
-   27  2024-09-26 07:05:47 sudo vi /etc/ssh/sshd_config
-   28  2024-09-26 07:05:47 service sshd restart
-   29  2024-09-26 07:05:47 exit
+    1  2024-09-26 09:29:14 ssh rohit@13.60.210.225
+    2  2024-09-26 09:29:14 logout
+    3  2024-09-26 09:29:14 nano /etc/ssh/sshd_config
+    4  2024-09-26 09:29:14 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+    5  2024-09-26 09:29:14 exit
+    6  2024-09-26 09:29:14 vi
+    7  2024-09-26 09:29:14 vi /etc/ssh/sshd-config
+    8  2024-09-26 09:29:14 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+    9  2024-09-26 09:29:14 lscpu
+   10  2024-09-26 09:29:14 cat /etc/os-release
+   11  2024-09-26 09:29:14 vim /etc/ssh/sshd-config
+   12  2024-09-26 09:29:14 emacs /etc/ssh/sshd-config
+   13  2024-09-26 09:29:14 ed /etc/ssh/sshd-config
+   14  2024-09-26 09:29:14 echo /etc/ssh/sshd-config
+   15  2024-09-26 09:29:14 ssh -i "C:\Users\rohit.sonkoju\Downloads\rohitadithya-biz-training-keypair.pem" ec2-user@13.60.242.235
+   16  2024-09-26 09:29:14 sudo vi /etc/ssh/sshd_config
+   17  2024-09-26 09:29:14 sudo systemctl restart sshd
+   18  2024-09-26 09:29:14 passwd
+   19  2024-09-26 09:29:14 exit
+   20  2024-09-26 09:29:14 rebooy
+   21  2024-09-26 09:29:14 reboot
+   22  2024-09-26 09:29:14 passwd
+   23  2024-09-26 09:29:14 exit
+   24  2024-09-26 09:29:14 passwd ec2-user
+   25  2024-09-26 09:29:14 pwd
+   26  2024-09-26 09:29:14 vi /etc/ssh/sshd-config
+   27  2024-09-26 09:29:14 sudo vi /etc/ssh/sshd_config
+   28  2024-09-26 09:29:14 service sshd restart
+   29  2024-09-26 09:29:14 exit
    30  2024-09-17 09:12:14 export HISTTIMEFORMAT="%F %T "
    31  2024-09-17 09:12:30 source ~/.bashrc
    32  2024-09-17 09:12:40 history > commandslist.txt
    33  2024-09-17 09:13:15 exit
-   34  2024-09-26 07:05:47 passwd
-   35  2024-09-26 07:05:47 sudo -i
-   36  2024-09-26 07:05:47 exit
-   37  2024-09-26 07:05:47 sudo vi /etc/ssh/sshd_config
-   38  2024-09-26 07:05:47 service sshd restart
-   39  2024-09-26 07:05:47 sudo -i
-   40  2024-09-26 07:05:47 logout
-   41  2024-09-26 07:05:47 sudo -i
-   42  2024-09-26 07:05:47 exit
-   43  2024-09-26 07:05:47 sudo -i
-   44  2024-09-26 07:05:47 exit
-   45  2024-09-26 07:05:47 sudo -i
-   46  2024-09-26 07:05:47 exit
-   47  2024-09-26 07:05:47 sudo -i
-   48  2024-09-26 07:05:47 exit
-   49  2024-09-26 07:05:47 sudo -i
-   50  2024-09-26 07:05:47 logout
-   51  2024-09-26 07:05:47 sudo -i
-   52  2024-09-26 07:05:47 logout
-   53  2024-09-26 07:05:47 sudo -i
-   54  2024-09-26 07:05:47 exit
-   55  2024-09-26 07:05:47 sudo -i
-   56  2024-09-26 07:05:47 cd .ssh
-   57  2024-09-26 07:05:47 ls -a
-   58  2024-09-26 07:05:47 vi authorized_keys
-   59  2024-09-26 07:05:47 cd .ssh
-   60  2024-09-26 07:05:47 vi .ssh
-   61  2024-09-26 07:05:47 sudo -i
-   62  2024-09-26 07:05:47 exit
-   63  2024-09-26 07:05:47 su rohit
-   64  2024-09-26 07:05:47 vi authorized_keys
-   65  2024-09-26 07:05:47 cd ~
-   66  2024-09-26 07:05:47 su root
-   67  2024-09-26 07:05:47 cat /etc/redhat-release 
-   68  2024-09-26 07:05:47 df -ah
-   69  2024-09-26 07:05:47 free
-   70  2024-09-26 07:05:47 free -g
-   71  2024-09-26 07:05:47 free -m
-   72  2024-09-26 07:05:47 top
-   73  2024-09-26 07:05:47 ls cpu
-   74  2024-09-26 07:05:47 lscpu
-   75  2024-09-26 07:05:47 yum update
-   76  2024-09-26 07:05:47 sudo yum update
-   77  2024-09-26 07:05:47 lscpu
-   78  2024-09-26 07:05:47 free -m
-   79  2024-09-26 07:05:47 df -ah
-   80  2024-09-26 07:05:47 sudo yum install java@latest
-   81  2024-09-26 07:05:47 sudo yum install java-21-openjdk
-   82  2024-09-26 07:05:47 java -version
-   83  2024-09-26 07:05:47 sudo yum install wget
-   84  2024-09-26 07:05:47 wget [200~https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm~
-   85  2024-09-26 07:05:47 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
-   86  2024-09-26 07:05:47 ls -h
-   87  2024-09-26 07:05:47 ls -al
-   88  2024-09-26 07:05:47 ls -lh
-   89  2024-09-26 07:05:47 ls
-   90  2024-09-26 07:05:47 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
-   91  2024-09-26 07:05:47 wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
-   92  2024-09-26 07:05:47 ls
-   93  2024-09-26 07:05:47 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
-   94  2024-09-26 07:05:47 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
-   95  2024-09-26 07:05:47 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-   96  2024-09-26 07:05:47 sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
-   97  2024-09-26 07:05:47 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
-   98  2024-09-26 07:05:47 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
-   99  2024-09-26 07:05:47 free -m
-  100  2024-09-26 07:05:47 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
-  101  2024-09-26 07:05:47 history
-  102  2024-09-26 07:05:47 sufo /etc/init.d/oracle-xe-21c configure
-  103  2024-09-26 07:05:47 sudo /etc/init.d/oracle-xe-21c configre
-  104  2024-09-26 07:05:47 configure
-  105  2024-09-26 07:05:47 sudo /etc/init.d/oracle-xe-21c configure
-  106  2024-09-26 07:05:47 cat /opt/oracle/cfgtoollogs/dbca
-  107  2024-09-26 07:05:47 vi /opt/oracle/cfgtoollogs/dbca
-  108  2024-09-26 07:05:47 cd opt
-  109  2024-09-26 07:05:47 cd /opt
-  110  2024-09-26 07:05:47 ls -al
-  111  2024-09-26 07:05:47 cd oracle
-  112  2024-09-26 07:05:47 ls -al
-  113  2024-09-26 07:05:47 cd product
-  114  2024-09-26 07:05:47 ls -al
-  115  2024-09-26 07:05:47 cd 21c
-  116  2024-09-26 07:05:47 ls -al
-  117  2024-09-26 07:05:47 cd dbhmoeXE
-  118  2024-09-26 07:05:47 cd dbhomeXE
-  119  2024-09-26 07:05:47 ls -al
-  120  2024-09-26 07:05:47 cd cv
-  121  2024-09-26 07:05:47 ls -al
-  122  2024-09-26 07:05:47 cd admin
-  123  2024-09-26 07:05:47 ls -al
-  124  2024-09-26 07:05:47 sudo vi [200~cvu_config
-  125  2024-09-26 07:05:47 ls -al
-  126  2024-09-26 07:05:47 cat cvu_config
-  127  2024-09-26 07:05:47 sudo vi cvu_config
-  128  2024-09-26 07:05:47 cd ~
-  129  2024-09-26 07:05:47 sudo /etc/init.d/oracle-xe-21c configure
-  130  2024-09-26 07:05:47 sqlplus
-  131  2024-09-26 07:05:47 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
-  132  2024-09-26 07:05:47 export ORACLE_SID=XE
-  133  2024-09-26 07:05:47 e
-  134  2024-09-26 07:05:47 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
-  135  2024-09-26 07:05:47 sqlplus
-  136  2024-09-26 07:05:47 whoami
-  137  2024-09-26 07:05:47 sqlplus
-  138  2024-09-26 07:05:47 ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
-  139  2024-09-26 07:05:47 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
-  140  2024-09-26 07:05:47 export ORACLE_SID=XE
-  141  2024-09-26 07:05:47 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
-  142  2024-09-26 07:05:47 sqlplus
-  143  2024-09-26 07:05:47 whoami
-  144  2024-09-26 07:05:47 sqlplus
-  145  2024-09-26 07:05:47 history
-  146  2024-09-26 07:05:47 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
-  147  2024-09-26 07:05:47 export ORACLE_SID=XE
-  148  2024-09-26 07:05:47 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
-  149  2024-09-26 07:05:47 sqlplus
-  150  2024-09-26 07:05:47 history
-  151  2024-09-26 07:05:47 sqlplus
-  152  2024-09-26 07:05:47 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
-  153  2024-09-26 07:05:47 export ORACLE_SID=XE
-  154  2024-09-26 07:05:47 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
-  155  2024-09-26 07:05:47 sqlplus
-  156  2024-09-26 07:05:47 bash profile
-  157  2024-09-26 07:05:47 ls -a
-  158  2024-09-26 07:05:47 cd .bash_profile
-  159  2024-09-26 07:05:47 cd bash_profile
-  160  2024-09-26 07:05:47 vi .bash_profile
-  161  2024-09-26 07:05:47 sqlplus
-  162  2024-09-26 07:05:47 history
-  163  2024-09-26 07:05:47 sqlplus
-  164  2024-09-26 07:05:47 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
-  165  2024-09-26 07:05:47 export ORACLE_SID=XE
-  166  2024-09-26 07:05:47  export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
-  167  2024-09-26 07:05:47 sqlplus
-  168  2024-09-26 07:05:47 sudo -i
-  169  2024-09-26 07:05:47 source ~/.bash_profile
-  170  2024-09-26 07:05:47 sqlplus
-  171  2024-09-26 07:05:47 sudo service oracle-xe-21c start
-  172  2024-09-26 07:05:47 sqlplus
-  173  2024-09-26 07:05:47 history
-  174  2024-09-26 07:05:47 sqlplus
-  175  2024-09-26 07:05:47 sudo -i
-  176  2024-09-26 07:05:47 sqlplus
-  177  2024-09-26 07:05:47 source ~/.bash_profile
-  178  2024-09-26 07:05:47 sqlplus
-  179  2024-09-26 07:05:47 sudo -i
-  180  2024-09-26 07:05:47 vi .bash_profile
-  181  2024-09-26 07:05:47 ls -al
-  182  2024-09-26 07:05:47 ls -a
-  183  2024-09-26 07:05:47 cd ~
-  184  2024-09-26 07:05:47 ls -a
-  185  2024-09-26 07:05:47 sudo -i
-  186  2024-09-26 07:05:47 sqlplus
-  187  2024-09-26 07:05:47 sqlplus classicmodels/classicmodels
-  188  2024-09-26 07:05:47 sqlplus
-  189  2024-09-26 07:05:47 source ~/.bash_profile
-  190  2024-09-26 07:05:47 sqlplus
-  191  2024-09-26 07:05:47 history
-  192  2024-09-26 07:05:47 sudo service oracle-xe-21c start
-  193  2024-09-26 07:05:47 cd 
-  194  2024-09-26 07:05:47 pwd
-  195  2024-09-26 07:05:47 ls
-  196  2024-09-26 07:05:47 cd -
-  197  2024-09-26 07:05:47 sudo -i
-  198  2024-09-26 07:05:47 cd 
-  199  2024-09-26 07:05:47 cd /opt/oracle/product/21c/dbhomeXE
-  200  2024-09-26 07:05:47 cd bin
-  201  2024-09-26 07:05:47 ls
-  202  2024-09-26 07:05:47 imp classicmodels/classicmodels FILE=/home/ec2-user/'classicmodels .dmp'
-  203  2024-09-26 07:05:47 imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels .dmp
-  204  2024-09-26 07:05:47 imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp
-  205  2024-09-26 07:05:47 which impdp
-  206  2024-09-26 07:05:47 pwd
-  207  2024-09-26 07:05:47 imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp
-  208  2024-09-26 07:05:47 impdp classicmodels/classicmodels@database DIRECTORY=data_pump_dir DUMPFILE=classicmodels.dmp
-  209  2024-09-26 07:05:47 cd imp
-  210  2024-09-26 07:05:47 vi imp
-  211  2024-09-26 07:05:47 source imp
-  212  2024-09-26 07:05:47  cd /opt/oracle/product/21c/dbhomeXE/bin
-  213  2024-09-26 07:05:47 imp classicmodels/classicmodels FILE=/home/ec2-user/'classicmodels .dmp' log=/home/ec2-user/import.log FULL=Y
-  214  2024-09-26 07:05:47 sqlplus
-  215  2024-09-26 07:05:47 source ~/.bash_profile
-  216  2024-09-26 07:05:47 sqlplus
-  217  2024-09-26 07:05:47 cd ~
-  218  2024-09-26 07:05:47 sqlplus
-  219  2024-09-26 07:05:47 source ~/.bash_profile
-  220  2024-09-26 07:05:47 sqlplus
-  221  2024-09-26 07:05:47 lsnrctl start
-  222  2024-09-26 07:05:47 cdmod 777 /opt/oracle/product/21c/dbhomeXE/network/log
-  223  2024-09-26 07:05:47 chmod 777 /opt/oracle/product/21c/dbhomeXE/network/log
-  224  2024-09-26 07:05:47 cd 
-  225  2024-09-26 07:05:47 cd
-  226  2024-09-26 07:05:47 cd ~
-  227  2024-09-26 07:05:47 chmod 777 /opt/oracle/product/21c/dbhomeXE/network/log
-  228  2024-09-26 07:05:47 sudo -i
-  229  2024-09-26 07:05:47 esit
-  230  2024-09-26 07:05:47 exit
-  231  2024-09-26 07:05:47 ls -a
-  232  2024-09-26 07:05:47 vi .bash_profile
-  233  2024-09-26 07:05:47 sqlplus
-  234  2024-09-26 07:05:47 history
-  235  2024-09-26 07:05:47 sudo service oracle-xe-21c start
-  236  2024-09-26 07:05:47 sqlplus
-  237  2024-09-26 07:05:47 imp classicmodels/classicmodels FILE=
-  238  2024-09-26 07:05:47 ls
-  239  2024-09-26 07:05:47 mv 'classicmodels .dmp' classicmodels.dmp
-  240  2024-09-26 07:05:47 ls
-  241  2024-09-26 07:05:47 imp classicmodels.classicmodels FILE=/home/ec2-user/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
-  242  2024-09-26 07:05:50 ls
-  243  2024-09-26 07:06:05 mkdir git-training
-  244  2024-09-26 07:06:11 cd git-training
-  245  2024-09-26 07:06:15 ls
-  246  2024-09-26 07:06:23 touch gitcron.sh
-  247  2024-09-26 07:06:25 ls
-  248  2024-09-26 07:07:36 touch gitcmdhis.log
-  249  2024-09-26 07:07:38 ls
-  250  2024-09-26 07:07:41 ls -a
-  251  2024-09-26 07:08:08 crontab -l
-  252  2024-09-26 07:08:16 crontab -e
-  253  2024-09-26 07:09:08 chmod +x .gitcron.sh
-  254  2024-09-26 07:09:16 chmod +x /gitcron.sh
-  255  2024-09-26 07:09:21 chmod +x gitcron.sh
-  256  2024-09-26 07:09:28 history
-  257  2024-09-26 07:10:40 cd .
-  258  2024-09-26 07:10:43 cd ..
-  259  2024-09-26 07:10:47 history
-  260  2024-09-26 07:11:07 cd git-training
-  261  2024-09-26 07:11:08 ls
-  262  2024-09-26 07:11:33 sudo chmod 666 gitcmdhis.log
-  263  2024-09-26 07:11:39 vi gitcron.sh
-  264  2024-09-26 07:14:16 cat /home/ec2-user/mycronlog.log
-  265  2024-09-26 07:14:25 cd ..
-  266  2024-09-26 07:14:29 cat /home/ec2-user/mycronlog.log
-  267  2024-09-26 07:14:50 cd ~
-  268  2024-09-26 07:14:53 cat /home/ec2-user/mycronlog.log
-  269  2024-09-26 07:15:00 ls
-  270  2024-09-26 07:15:10 cat mycronlog.log
-  271  2024-09-26 07:15:17 mycron.sh
-  272  2024-09-26 07:15:22 cat mycron.sh
-  273  2024-09-26 07:15:33 cat /mycronlog.log
-  274  2024-09-26 07:15:49 cd /mycronlog.log
-  275  2024-09-26 07:16:48 sudo grep CRON /var/log/cron
-  276  2024-09-26 07:17:19 cd /home
-  277  2024-09-26 07:17:33 cd /ec2-user
-  278  2024-09-26 07:17:39 ls
-  279  2024-09-26 07:17:50 cd ~
-  280  2024-09-26 07:17:51 ls
-  281  2024-09-26 07:18:05 cd git-training
-  282  2024-09-26 07:18:06 ls
-  283  2024-09-26 07:18:12 vi gitcron.sh
-  284  2024-09-26 07:18:53 crontab -l
-  285  2024-09-26 07:19:00 crontab -e
-  286  2024-09-26 07:19:33 sudo systemctl restart crond
-  287  2024-09-26 07:19:49 sudo grep CRON /var/log/cron
-  288  2024-09-26 07:20:06 cat gitcron.sh
-  289  2024-09-26 07:20:19 cat gitcmdhis.log
-  290  2024-09-26 07:20:32 sudo grep CRON /var/log/cron
-  291  2024-09-26 07:21:03 cat gitcmdhis.log
-  292  2024-09-26 07:21:15 history
-  293  2024-09-26 07:21:25 cat gitcron.sh
-  294  2024-09-26 07:21:48 crontab -l
-  295  2024-09-26 07:22:33 sudo grep CRON /var/log/cron
-  296  2024-09-26 07:22:57 cat /gitcmdhis.log
-  297  2024-09-26 07:23:06 cat /home/ec2-user/git-training/gitcron.sh
-  298  2024-09-26 07:23:38 cat gitcronlsh
-  299  2024-09-26 07:23:42 cat gitcron.sh
-  300  2024-09-26 07:23:52 cat gitcmdhis.log
-  301  2024-09-26 07:23:53 ls
-  302  2024-09-26 07:24:45 chmod 644 /home/ec2-user/git-training/gitcmdhis.log
-  303  2024-09-26 07:25:28 sudo chmod 666 /gitcmdhis.log
-  304  2024-09-26 07:25:35 sudo chmod 666 gitcmdhis.log
-  305  2024-09-26 07:25:45 cat gitcmdhis.log
-  306  2024-09-26 07:25:53 vi gitcmdhis.log
-  307  2024-09-26 07:26:04 cat gitcmdhis.log
-  308  2024-09-26 07:26:18 sudo grep CRON /var/log/cron
-  309  2024-09-26 07:26:47 sudo systemctl restart crond
-  310  2024-09-26 07:26:50 sudo grep CRON /var/log/cron
-  311  2024-09-26 07:27:12 vi gitcron.sh
-  312  2024-09-26 07:28:53 cd command
-  313  2024-09-26 07:28:56 ls
-  314  2024-09-26 07:29:00 cd ~
-  315  2024-09-26 07:29:02 ls
-  316  2024-09-26 07:29:04 ls -a
-  317  2024-09-26 07:29:32 cd  commandslist.txt
-  318  2024-09-26 07:29:40 cat commandslist.txt
-  319  2024-09-26 07:29:56 vi commandslist.txt
-  320  2024-09-26 07:31:02  export HISTTIMEFORMAT="%F %T "
-  321  2024-09-26 07:31:26 source ~/.bashrc
-  322  2024-09-26 07:31:42 history > commandslist.txt
+   34  2024-09-26 09:29:14 passwd
+   35  2024-09-26 09:29:14 sudo -i
+   36  2024-09-26 09:29:14 exit
+   37  2024-09-26 09:29:14 sudo vi /etc/ssh/sshd_config
+   38  2024-09-26 09:29:14 service sshd restart
+   39  2024-09-26 09:29:14 sudo -i
+   40  2024-09-26 09:29:14 logout
+   41  2024-09-26 09:29:14 sudo -i
+   42  2024-09-26 09:29:14 exit
+   43  2024-09-26 09:29:14 sudo -i
+   44  2024-09-26 09:29:14 exit
+   45  2024-09-26 09:29:14 sudo -i
+   46  2024-09-26 09:29:14 exit
+   47  2024-09-26 09:29:14 sudo -i
+   48  2024-09-26 09:29:14 exit
+   49  2024-09-26 09:29:14 sudo -i
+   50  2024-09-26 09:29:14 logout
+   51  2024-09-26 09:29:14 sudo -i
+   52  2024-09-26 09:29:14 logout
+   53  2024-09-26 09:29:14 sudo -i
+   54  2024-09-26 09:29:14 exit
+   55  2024-09-26 09:29:14 sudo -i
+   56  2024-09-26 09:29:14 cd .ssh
+   57  2024-09-26 09:29:14 ls -a
+   58  2024-09-26 09:29:14 vi authorized_keys
+   59  2024-09-26 09:29:14 cd .ssh
+   60  2024-09-26 09:29:14 vi .ssh
+   61  2024-09-26 09:29:14 sudo -i
+   62  2024-09-26 09:29:14 exit
+   63  2024-09-26 09:29:14 su rohit
+   64  2024-09-26 09:29:14 vi authorized_keys
+   65  2024-09-26 09:29:14 cd ~
+   66  2024-09-26 09:29:14 su root
+   67  2024-09-26 09:29:14 cat /etc/redhat-release 
+   68  2024-09-26 09:29:14 df -ah
+   69  2024-09-26 09:29:14 free
+   70  2024-09-26 09:29:14 free -g
+   71  2024-09-26 09:29:14 free -m
+   72  2024-09-26 09:29:14 top
+   73  2024-09-26 09:29:14 ls cpu
+   74  2024-09-26 09:29:14 lscpu
+   75  2024-09-26 09:29:14 yum update
+   76  2024-09-26 09:29:14 sudo yum update
+   77  2024-09-26 09:29:14 lscpu
+   78  2024-09-26 09:29:14 free -m
+   79  2024-09-26 09:29:14 df -ah
+   80  2024-09-26 09:29:14 sudo yum install java@latest
+   81  2024-09-26 09:29:14 sudo yum install java-21-openjdk
+   82  2024-09-26 09:29:14 java -version
+   83  2024-09-26 09:29:14 sudo yum install wget
+   84  2024-09-26 09:29:14 wget [200~https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm~
+   85  2024-09-26 09:29:14 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   86  2024-09-26 09:29:14 ls -h
+   87  2024-09-26 09:29:14 ls -al
+   88  2024-09-26 09:29:14 ls -lh
+   89  2024-09-26 09:29:14 ls
+   90  2024-09-26 09:29:14 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+   91  2024-09-26 09:29:14 wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   92  2024-09-26 09:29:14 ls
+   93  2024-09-26 09:29:14 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+   94  2024-09-26 09:29:14 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
+   95  2024-09-26 09:29:14 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+   96  2024-09-26 09:29:14 sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+   97  2024-09-26 09:29:14 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
+   98  2024-09-26 09:29:14 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+   99  2024-09-26 09:29:14 free -m
+  100  2024-09-26 09:29:14 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+  101  2024-09-26 09:29:14 history
+  102  2024-09-26 09:29:14 sufo /etc/init.d/oracle-xe-21c configure
+  103  2024-09-26 09:29:14 sudo /etc/init.d/oracle-xe-21c configre
+  104  2024-09-26 09:29:14 configure
+  105  2024-09-26 09:29:14 sudo /etc/init.d/oracle-xe-21c configure
+  106  2024-09-26 09:29:14 cat /opt/oracle/cfgtoollogs/dbca
+  107  2024-09-26 09:29:14 vi /opt/oracle/cfgtoollogs/dbca
+  108  2024-09-26 09:29:14 cd opt
+  109  2024-09-26 09:29:14 cd /opt
+  110  2024-09-26 09:29:14 ls -al
+  111  2024-09-26 09:29:14 cd oracle
+  112  2024-09-26 09:29:14 ls -al
+  113  2024-09-26 09:29:14 cd product
+  114  2024-09-26 09:29:14 ls -al
+  115  2024-09-26 09:29:14 cd 21c
+  116  2024-09-26 09:29:14 ls -al
+  117  2024-09-26 09:29:14 cd dbhmoeXE
+  118  2024-09-26 09:29:14 cd dbhomeXE
+  119  2024-09-26 09:29:14 ls -al
+  120  2024-09-26 09:29:14 cd cv
+  121  2024-09-26 09:29:14 ls -al
+  122  2024-09-26 09:29:14 cd admin
+  123  2024-09-26 09:29:14 ls -al
+  124  2024-09-26 09:29:14 sudo vi [200~cvu_config
+  125  2024-09-26 09:29:14 ls -al
+  126  2024-09-26 09:29:14 cat cvu_config
+  127  2024-09-26 09:29:14 sudo vi cvu_config
+  128  2024-09-26 09:29:14 cd ~
+  129  2024-09-26 09:29:14 sudo /etc/init.d/oracle-xe-21c configure
+  130  2024-09-26 09:29:14 sqlplus
+  131  2024-09-26 09:29:14 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  132  2024-09-26 09:29:14 export ORACLE_SID=XE
+  133  2024-09-26 09:29:14 e
+  134  2024-09-26 09:29:14 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  135  2024-09-26 09:29:14 sqlplus
+  136  2024-09-26 09:29:14 whoami
+  137  2024-09-26 09:29:14 sqlplus
+  138  2024-09-26 09:29:14 ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  139  2024-09-26 09:29:14 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  140  2024-09-26 09:29:14 export ORACLE_SID=XE
+  141  2024-09-26 09:29:14 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  142  2024-09-26 09:29:14 sqlplus
+  143  2024-09-26 09:29:14 whoami
+  144  2024-09-26 09:29:14 sqlplus
+  145  2024-09-26 09:29:14 history
+  146  2024-09-26 09:29:14 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  147  2024-09-26 09:29:14 export ORACLE_SID=XE
+  148  2024-09-26 09:29:14 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  149  2024-09-26 09:29:14 sqlplus
+  150  2024-09-26 09:29:14 history
+  151  2024-09-26 09:29:14 sqlplus
+  152  2024-09-26 09:29:14 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  153  2024-09-26 09:29:14 export ORACLE_SID=XE
+  154  2024-09-26 09:29:14 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  155  2024-09-26 09:29:14 sqlplus
+  156  2024-09-26 09:29:14 bash profile
+  157  2024-09-26 09:29:14 ls -a
+  158  2024-09-26 09:29:14 cd .bash_profile
+  159  2024-09-26 09:29:14 cd bash_profile
+  160  2024-09-26 09:29:14 vi .bash_profile
+  161  2024-09-26 09:29:14 sqlplus
+  162  2024-09-26 09:29:14 history
+  163  2024-09-26 09:29:14 sqlplus
+  164  2024-09-26 09:29:14 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+  165  2024-09-26 09:29:14 export ORACLE_SID=XE
+  166  2024-09-26 09:29:14  export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+  167  2024-09-26 09:29:14 sqlplus
+  168  2024-09-26 09:29:14 sudo -i
+  169  2024-09-26 09:29:14 source ~/.bash_profile
+  170  2024-09-26 09:29:14 sqlplus
+  171  2024-09-26 09:29:14 sudo service oracle-xe-21c start
+  172  2024-09-26 09:29:14 sqlplus
+  173  2024-09-26 09:29:14 history
+  174  2024-09-26 09:29:14 sqlplus
+  175  2024-09-26 09:29:14 sudo -i
+  176  2024-09-26 09:29:14 sqlplus
+  177  2024-09-26 09:29:14 source ~/.bash_profile
+  178  2024-09-26 09:29:14 sqlplus
+  179  2024-09-26 09:29:14 sudo -i
+  180  2024-09-26 09:29:14 vi .bash_profile
+  181  2024-09-26 09:29:14 ls -al
+  182  2024-09-26 09:29:14 ls -a
+  183  2024-09-26 09:29:14 cd ~
+  184  2024-09-26 09:29:14 ls -a
+  185  2024-09-26 09:29:14 sudo -i
+  186  2024-09-26 09:29:14 sqlplus
+  187  2024-09-26 09:29:14 sqlplus classicmodels/classicmodels
+  188  2024-09-26 09:29:14 sqlplus
+  189  2024-09-26 09:29:14 source ~/.bash_profile
+  190  2024-09-26 09:29:14 sqlplus
+  191  2024-09-26 09:29:14 history
+  192  2024-09-26 09:29:14 sudo service oracle-xe-21c start
+  193  2024-09-26 09:29:14 cd 
+  194  2024-09-26 09:29:14 pwd
+  195  2024-09-26 09:29:14 ls
+  196  2024-09-26 09:29:14 cd -
+  197  2024-09-26 09:29:14 sudo -i
+  198  2024-09-26 09:29:14 cd 
+  199  2024-09-26 09:29:14 cd /opt/oracle/product/21c/dbhomeXE
+  200  2024-09-26 09:29:14 cd bin
+  201  2024-09-26 09:29:14 ls
+  202  2024-09-26 09:29:14 imp classicmodels/classicmodels FILE=/home/ec2-user/'classicmodels .dmp'
+  203  2024-09-26 09:29:14 imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels .dmp
+  204  2024-09-26 09:29:14 imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp
+  205  2024-09-26 09:29:14 which impdp
+  206  2024-09-26 09:29:14 pwd
+  207  2024-09-26 09:29:14 imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp
+  208  2024-09-26 09:29:14 impdp classicmodels/classicmodels@database DIRECTORY=data_pump_dir DUMPFILE=classicmodels.dmp
+  209  2024-09-26 09:29:14 cd imp
+  210  2024-09-26 09:29:14 vi imp
+  211  2024-09-26 09:29:14 source imp
+  212  2024-09-26 09:29:14  cd /opt/oracle/product/21c/dbhomeXE/bin
+  213  2024-09-26 09:29:14 imp classicmodels/classicmodels FILE=/home/ec2-user/'classicmodels .dmp' log=/home/ec2-user/import.log FULL=Y
+  214  2024-09-26 09:29:14 sqlplus
+  215  2024-09-26 09:29:14 source ~/.bash_profile
+  216  2024-09-26 09:29:14 sqlplus
+  217  2024-09-26 09:29:14 cd ~
+  218  2024-09-26 09:29:14 sqlplus
+  219  2024-09-26 09:29:14 source ~/.bash_profile
+  220  2024-09-26 09:29:14 sqlplus
+  221  2024-09-26 09:29:14 lsnrctl start
+  222  2024-09-26 09:29:14 cdmod 777 /opt/oracle/product/21c/dbhomeXE/network/log
+  223  2024-09-26 09:29:14 chmod 777 /opt/oracle/product/21c/dbhomeXE/network/log
+  224  2024-09-26 09:29:14 cd 
+  225  2024-09-26 09:29:14 cd
+  226  2024-09-26 09:29:14 cd ~
+  227  2024-09-26 09:29:14 chmod 777 /opt/oracle/product/21c/dbhomeXE/network/log
+  228  2024-09-26 09:29:14 sudo -i
+  229  2024-09-26 09:29:14 esit
+  230  2024-09-26 09:29:14 exit
+  231  2024-09-26 09:29:14 ls -a
+  232  2024-09-26 09:29:14 vi .bash_profile
+  233  2024-09-26 09:29:14 sqlplus
+  234  2024-09-26 09:29:14 history
+  235  2024-09-26 09:29:14 sudo service oracle-xe-21c start
+  236  2024-09-26 09:29:14 sqlplus
+  237  2024-09-26 09:29:14 imp classicmodels/classicmodels FILE=
+  238  2024-09-26 09:29:14 ls
+  239  2024-09-26 09:29:14 mv 'classicmodels .dmp' classicmodels.dmp
+  240  2024-09-26 09:29:14 ls
+  241  2024-09-26 09:29:14 imp classicmodels.classicmodels FILE=/home/ec2-user/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+  242  2024-09-26 09:29:14 history
+  243  2024-09-26 09:29:14 ls
+  244  2024-09-26 09:29:14 cd git-trainning
+  245  2024-09-26 09:29:14 cd git-training
+  246  2024-09-26 09:29:14 history
+  247  2024-09-26 09:29:14 history > commandslist.txt
+  248  2024-09-26 09:29:14 cat commandslist.txt
+  249  2024-09-26 09:29:14 history
+  250  2024-09-26 09:29:14 crontab -e
+  251  2024-09-26 09:29:14 vi crontab
+  252  2024-09-26 09:29:14 ssh
+  253  2024-09-26 09:29:14 ls -a
+  254  2024-09-26 09:29:14 crontab -e
+  255  2024-09-26 09:29:14 vi mycron.sh
+  256  2024-09-26 09:29:14 cat mycron.sh
+  257  2024-09-26 09:29:14 crontab -e
+  258  2024-09-26 09:29:14 cat crontab
+  259  2024-09-26 09:29:14 crontab -e
+  260  2024-09-26 09:29:14 crontab -l
+  261  2024-09-26 09:29:14 sudo systemctl start crond
+  262  2024-09-26 09:29:14 crontab -l
+  263  2024-09-26 09:29:14 cat mycron/sh
+  264  2024-09-26 09:29:14 cat mycron.sh
+  265  2024-09-26 09:29:14 sudo systemctl status crond
+  266  2024-09-26 09:29:14 cat /tmp/cron.log
+  267  2024-09-26 09:29:14 vi mycronlog.log
+  268  2024-09-26 09:29:14 cat mycronlog.log
+  269  2024-09-26 09:29:14 crontab -e
+  270  2024-09-26 09:29:14 ls
+  271  2024-09-26 09:29:14 vi mycron.sh
+  272  2024-09-26 09:29:14 crontab -e
+  273  2024-09-26 09:29:14 cat mycronlog.log
+  274  2024-09-26 09:29:14 vi mycorn.sh
+  275  2024-09-26 09:29:14 vi mycronlog.log
+  276  2024-09-26 09:29:14 crontab -e
+  277  2024-09-26 09:29:14 cat mycron.sh
+  278  2024-09-26 09:29:14 cat mycronlog.log
+  279  2024-09-26 09:29:14 crontab -l
+  280  2024-09-26 09:29:14 chmod +x /mycron.sh
+  281  2024-09-26 09:29:14 chmod +x mycron.sh
+  282  2024-09-26 09:29:14 cat mycronlog.log
+  283  2024-09-26 09:29:14 crontab -e
+  284  2024-09-26 09:29:14 sudo systemctl restart crond
+  285  2024-09-26 09:29:14 sudo grep CRON /var/log/cron
+  286  2024-09-26 09:29:14 cat mycronlog.log
+  287  2024-09-26 09:29:14 sudo systemctl restart crond
+  288  2024-09-26 09:29:14 sudo grep CRON /var/log/cron
+  289  2024-09-26 09:29:14 touch /home/ec2-user/mycronlog.log
+  290  2024-09-26 09:29:14 ls
+  291  2024-09-26 09:29:14 chmod 644 /home/ec2-user/mycronlog.log
+  292  2024-09-26 09:29:14 cat /home/ec2-user/mycronlog.log
+  293  2024-09-26 09:29:14 sudo grep CRON /var/log/cron
+  294  2024-09-26 09:29:14 sudo systemctl restart crond
+  295  2024-09-26 09:29:14 sudo grep CRON /var/log/cron
+  296  2024-09-26 09:29:14 crontab -l
+  297  2024-09-26 09:29:14 cat /home/ec2-user/mycron.sh
+  298  2024-09-26 09:29:14 sudo grep CRON /var/log/cron
+  299  2024-09-26 09:29:14 sudo touch /mycronlog.log
+  300  2024-09-26 09:29:14 sudo chmod 666 /mycronlog.log
+  301  2024-09-26 09:29:14 sudo grep CRON /var/log/cron
+  302  2024-09-26 09:29:14 sudo systemctl restart crond
+  303  2024-09-26 09:29:14 sudo grep CRON /var/log/cron
+  304  2024-09-26 09:29:14 cat mycronlog.log
+  305  2024-09-26 09:29:14 cat /home/ec2-user/mycron.sh
+  306  2024-09-26 09:29:14 cat /mycronlog.log
+  307  2024-09-26 09:29:14 clear
+  308  2024-09-26 09:29:14 cat /mycronlog.log
+  309  2024-09-26 09:29:14 clear
+  310  2024-09-26 09:29:14 cat /mycronlog.log
+  311  2024-09-26 09:29:14 cd ~
+  312  2024-09-26 09:29:14 ls
+  313  2024-09-26 07:05:50 ls
+  314  2024-09-26 07:06:05 mkdir git-training
+  315  2024-09-26 07:06:11 cd git-training
+  316  2024-09-26 07:06:15 ls
+  317  2024-09-26 07:06:23 touch gitcron.sh
+  318  2024-09-26 07:06:25 ls
+  319  2024-09-26 07:07:36 touch gitcmdhis.log
+  320  2024-09-26 07:07:38 ls
+  321  2024-09-26 07:07:41 ls -a
+  322  2024-09-26 07:08:08 crontab -l
+  323  2024-09-26 07:08:16 crontab -e
+  324  2024-09-26 07:09:08 chmod +x .gitcron.sh
+  325  2024-09-26 07:09:16 chmod +x /gitcron.sh
+  326  2024-09-26 07:09:21 chmod +x gitcron.sh
+  327  2024-09-26 07:09:28 history
+  328  2024-09-26 07:10:40 cd .
+  329  2024-09-26 07:10:43 cd ..
+  330  2024-09-26 07:10:47 history
+  331  2024-09-26 07:11:07 cd git-training
+  332  2024-09-26 07:11:08 ls
+  333  2024-09-26 07:11:33 sudo chmod 666 gitcmdhis.log
+  334  2024-09-26 07:11:39 vi gitcron.sh
+  335  2024-09-26 07:14:16 cat /home/ec2-user/mycronlog.log
+  336  2024-09-26 07:14:25 cd ..
+  337  2024-09-26 07:14:29 cat /home/ec2-user/mycronlog.log
+  338  2024-09-26 07:14:50 cd ~
+  339  2024-09-26 07:14:53 cat /home/ec2-user/mycronlog.log
+  340  2024-09-26 07:15:00 ls
+  341  2024-09-26 07:15:10 cat mycronlog.log
+  342  2024-09-26 07:15:17 mycron.sh
+  343  2024-09-26 07:15:22 cat mycron.sh
+  344  2024-09-26 07:15:33 cat /mycronlog.log
+  345  2024-09-26 07:15:49 cd /mycronlog.log
+  346  2024-09-26 07:16:48 sudo grep CRON /var/log/cron
+  347  2024-09-26 07:17:19 cd /home
+  348  2024-09-26 07:17:33 cd /ec2-user
+  349  2024-09-26 07:17:39 ls
+  350  2024-09-26 07:17:50 cd ~
+  351  2024-09-26 07:17:51 ls
+  352  2024-09-26 07:18:05 cd git-training
+  353  2024-09-26 07:18:06 ls
+  354  2024-09-26 07:18:12 vi gitcron.sh
+  355  2024-09-26 07:18:53 crontab -l
+  356  2024-09-26 07:19:00 crontab -e
+  357  2024-09-26 07:19:33 sudo systemctl restart crond
+  358  2024-09-26 07:19:49 sudo grep CRON /var/log/cron
+  359  2024-09-26 07:20:06 cat gitcron.sh
+  360  2024-09-26 07:20:19 cat gitcmdhis.log
+  361  2024-09-26 07:20:32 sudo grep CRON /var/log/cron
+  362  2024-09-26 07:21:03 cat gitcmdhis.log
+  363  2024-09-26 07:21:15 history
+  364  2024-09-26 07:21:25 cat gitcron.sh
+  365  2024-09-26 07:21:48 crontab -l
+  366  2024-09-26 07:22:33 sudo grep CRON /var/log/cron
+  367  2024-09-26 07:22:57 cat /gitcmdhis.log
+  368  2024-09-26 07:23:06 cat /home/ec2-user/git-training/gitcron.sh
+  369  2024-09-26 07:23:38 cat gitcronlsh
+  370  2024-09-26 07:23:42 cat gitcron.sh
+  371  2024-09-26 07:23:52 cat gitcmdhis.log
+  372  2024-09-26 07:23:53 ls
+  373  2024-09-26 07:24:45 chmod 644 /home/ec2-user/git-training/gitcmdhis.log
+  374  2024-09-26 07:25:28 sudo chmod 666 /gitcmdhis.log
+  375  2024-09-26 07:25:35 sudo chmod 666 gitcmdhis.log
+  376  2024-09-26 07:25:45 cat gitcmdhis.log
+  377  2024-09-26 07:25:53 vi gitcmdhis.log
+  378  2024-09-26 07:26:04 cat gitcmdhis.log
+  379  2024-09-26 07:26:18 sudo grep CRON /var/log/cron
+  380  2024-09-26 07:26:47 sudo systemctl restart crond
+  381  2024-09-26 07:26:50 sudo grep CRON /var/log/cron
+  382  2024-09-26 07:27:12 vi gitcron.sh
+  383  2024-09-26 07:28:53 cd command
+  384  2024-09-26 07:28:56 ls
+  385  2024-09-26 07:29:00 cd ~
+  386  2024-09-26 07:29:02 ls
+  387  2024-09-26 07:29:04 ls -a
+  388  2024-09-26 07:29:32 cd  commandslist.txt
+  389  2024-09-26 07:29:40 cat commandslist.txt
+  390  2024-09-26 07:29:56 vi commandslist.txt
+  391  2024-09-26 07:31:02  export HISTTIMEFORMAT="%F %T "
+  392  2024-09-26 07:31:26 source ~/.bashrc
+  393  2024-09-26 07:31:42 history > commandslist.txt
+  394  2024-09-26 07:31:47 cat commandslist.txt
+  395  2024-09-26 07:33:40 cd git-training
+  396  2024-09-26 07:33:52 vi gitcron.sh
+  397  2024-09-26 07:35:20 crontab -l
+  398  2024-09-26 07:35:37 sudo grep CRON /var/log/cron
+  399  2024-09-26 07:36:12 cat /home/ec2-user/git-training/gitcmdhis.log
+  400  2024-09-26 07:36:22 cat gitcmdhis.log
+  401  2024-09-26 07:36:38 vi gitcmdhis.log
+  402  2024-09-26 07:36:58 cat /home/ec2-user/git-training/gitcmdhis.log
+  403  2024-09-26 07:37:14 crontab -l
+  404  2024-09-26 07:37:27 cat /home/ec2-user/git-training/gitcron.sh
+  405  2024-09-26 07:37:44 cat /home/ec2-user/commandslist.txt
+  406  2024-09-26 07:38:38 vi /home/ec2-user/git-training/gitcron.sh
+  407  2024-09-26 07:39:28 cat /home/ec2-user/git-training/gitcron.sh
+  408  2024-09-26 07:39:40 cat /home/ec2-user/commandslist.txt
+  409  2024-09-26 07:39:56 cat /home/ec2-user/git-training/gitcmdhis.log
+  410  2024-09-26 07:40:19 sudo systemctl restart crond
+  411  2024-09-26 07:40:34 cat gitcron.sh
+  412  2024-09-26 07:40:59 vi gitcron.sh
+  413  2024-09-26 09:30:45 sudo yum install git -y
+  414  2024-09-26 09:31:08 git  -version
+  415  2024-09-26 09:31:16 git --version
+  416  2024-09-26 09:39:37 git init
+  417  2024-09-26 09:39:54 git@github.com:rohitADITHYA/training-biz-rohitadithya.git
+  418  2024-09-26 09:40:10 ssh git@github.com:rohitADITHYA/training-biz-rohitadithya.git
+  419  2024-09-26 09:45:05 git clone https://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@github.com/rohitADITHYA/training-biz-rohitadithya.git
+  420  2024-09-26 09:45:14 ls
+  421  2024-09-26 09:45:30 cd training-biz-rohitadithya
+  422  2024-09-26 09:45:42 ls
+  423  2024-09-26 09:45:59 touch commandslist.txt
+  424  2024-09-26 09:46:02 ls
+  425  2024-09-26 09:46:26 rm training-biz-rohitadithya
+  426  2024-09-26 09:47:13 rm -rf training-biz-rohitadithya
+  427  2024-09-26 09:47:15 ls
+  428  2024-09-26 09:47:22 cd ~
+  429  2024-09-26 09:47:23 ls
+  430  2024-09-26 09:47:28 rm -rf training-biz-rohitadithya
+  431  2024-09-26 09:47:30 ls
+  432  2024-09-26 09:47:40 cd git-training
+  433  2024-09-26 09:47:57 git clone https://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@github.com/rohitADITHYA/traini
+  434  2024-09-26 09:47:57 ng-biz-rohitadithya.git
+  435  2024-09-26 09:48:13 git clone https://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@github.com/rohitADITHYA/training-biz-rohitadithya.git
+  436  2024-09-26 09:48:17 ls
+  437  2024-09-26 09:48:28 vi gitcron.sh
+  438  2024-09-26 09:54:32 corntab -l
+  439  2024-09-26 09:54:40 vi gitcron.sh
+  440  2024-09-26 09:55:48 cd ~
+  441  2024-09-26 09:55:54 corntab -l
+  442  2024-09-26 09:56:01 crontab -l
+  443  2024-09-26 09:56:08 history
+  444  2024-09-26 09:56:44 sudo grep CRON /var/log/cron
+  445  2024-09-26 09:57:21 sudo systemctl restart crond
+  446  2024-09-26 09:57:23 sudo grep CRON /var/log/cron
+  447  2024-09-26 09:58:47 crontab -l
+  448  2024-09-26 09:58:53 sudo grep CRON /var/log/cron
+  449  2024-09-26 09:59:19 crontab -l
+  450  2024-09-26 09:59:32 cat /home/ec2-user/git-training/gitcron.sh
+  451  2024-09-26 09:59:44 cd /home/ec2-user/git-training/training-biz-rohitadithya
+  452  2024-09-26 10:00:12 cat /home/ec2-user/git-training/training-biz-rohitadithya/commandslist.txt
+  453  2024-09-26 10:00:39 sudo grep CRON /var/log/cron
+  454  2024-09-26 10:01:58 cd ~
+  455  2024-09-26 10:02:22 export HISTTIMEFORMAT="%F %T "
+  456  2024-09-26 10:02:31 source ~/.bashrc
+  457  2024-09-26 10:02:46 history > commandslist.txt
