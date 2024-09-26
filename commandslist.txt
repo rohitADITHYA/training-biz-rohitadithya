@@ -335,3 +335,10 @@ vi ~/.bashrc
 source ~/.bashrc
 ./gitcron.sh 
 sudo grep CRON /var/log/cron
+ls -a
+cat .bash_profile
+cat .bash_history
+vi /home/ec2-user/git-training/gitcron.sh
+crontab -l
+cat /home/ec2-user/mycron.sh
+cat /home/ec2-user/git-training/gitcron.sh
