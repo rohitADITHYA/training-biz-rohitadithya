@@ -333,3 +333,4 @@ ls -al
 ./gitcron.sh 
 vi ~/.bashrc
 source ~/.bashrc
+./gitcron.sh 
