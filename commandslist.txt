@@ -473,77 +473,51 @@
   473  2024-09-26 10:18:53 cat /home/ec2-user/git-training/gitcron.sh
   474  2024-09-26 10:19:13 crontab -l
   475  2024-09-26 10:19:56 history
-  476  2024-09-26 10:20:59 ls
-  477  2024-09-26 10:21:16 rm -rf training-biz-rohitadithya
-  478  2024-09-26 10:21:49 ls
-  479  2024-09-26 10:22:00 cd  git-training
-  480  2024-09-26 10:22:02 ls
-  481  2024-09-26 10:22:17 rm -rf training-biz-rohitadithya
-  482  2024-09-26 10:22:18 ls
-  483  2024-09-26 10:22:25 git clone https://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@github.com/rohitADITHYA/training-biz-rohitadithya.git
-  484  2024-09-26 10:23:31 ls
-  485  2024-09-26 10:23:40 cd training-biz-rohitadithya
-  486  2024-09-26 10:23:42 ls
-  487  2024-09-26 10:23:50 cat commandslist.txt
-  488  2024-09-26 10:24:26 cd ~
-  489  2024-09-26 10:24:29 history > commandslist.txt
-  490  2024-09-26 10:24:32 history
-  491  2024-09-26 10:25:05 sudo grep CRON /var/log/cron
-  492  2024-09-26 10:25:53 git config --global --edit
-  493  2024-09-26 10:26:28 sudo systemctl restart crond
-  494  2024-09-26 10:26:31 sudo grep CRON /var/log/cron
-  495  2024-09-26 10:32:36 ls
-  496  2024-09-26 10:32:43 cd  git-training
-  497  2024-09-26 10:32:46 ls
-  498  2024-09-26 10:33:10 ssh-keygen -t rsa -b 4096 -C "rohit.adithya.sonkoju@gmail.com"
-  499  2024-09-26 10:34:03 eval "$(ssh-agent -s)"
-  500  2024-09-26 10:34:14 ssh-add ~/.ssh/id_rsa
-  501  2024-09-26 10:34:53 cat ~/.ssh/id_rsa.pub
-  502  2024-09-26 10:36:00 cd ~
-  503  2024-09-26 10:36:03 git remote set-url origin git@github.com:username/repository.git
-  504  2024-09-26 10:36:58 git remote set-url origin git@github.com:rohitADITHYA/training-biz-rohitadithya.git
-  505  2024-09-26 10:38:25 ls
-  506  2024-09-26 10:38:31 cd git-training
-  507  2024-09-26 10:38:35 git remote set-url origin git@github.com:rohitADITHYA/training-biz-rohitadithya.git
-  508  2024-09-26 10:38:43 ls
-  509  2024-09-26 10:38:52 cd training-biz-rohitadithya
-  510  2024-09-26 10:38:55 git remote set-url origin git@github.com:rohitADITHYA/training-biz-rohitadithya.git
-  511  2024-09-26 10:39:08 ssh -T git@github.com
-  512  2024-09-26 10:39:36 git add .
-  513  2024-09-26 10:39:59 git commit -m "$Date"
-  514  2024-09-26 10:40:11 git push origin main
-  515  2024-09-26 10:42:47 git commit -m "$Date"
-  516  2024-09-26 10:42:54 git push origin main
-  517  2024-09-26 10:44:44 history -d <476>
-  518  2024-09-26 10:44:50 history -d <484>
-  519  2024-09-26 10:44:52 git push origin main
-  520  2024-09-26 10:45:12 cd ~
-  521  2024-09-26 10:45:26 history > commandslist.txt
-  522  2024-09-26 10:46:07 cd /home/ec2-user
-  523  2024-09-26 10:46:09 ls
-  524  2024-09-26 10:46:17 cd  git-training
-  525  2024-09-26 10:46:26 ls
-  526  2024-09-26 10:46:41 cat gitcron.sh
-  527  2024-09-26 10:46:48 cat /home/ec2-user/commandslist.txt > /home/ec2-user/git-training/training-biz-rohitadithya/commandslist.txt
-  528  2024-09-26 10:46:58 git add commandslist.txt
-  529  2024-09-26 10:47:04 git commit -m "$(date)"
-  530  2024-09-26 10:47:22 cd training-biz-rohitadithya
-  531  2024-09-26 10:47:25 git add commandslist.txt
-  532  2024-09-26 10:47:28 git commit -m "$(date)"
-  533  2024-09-26 10:47:44 git push origin main
-  534  2024-09-26 10:47:58 history
-  535  2024-09-26 10:48:10 cd ~
-  536  2024-09-26 10:48:31 git push origin main
-  537  2024-09-26 10:48:54 history -d 476
-  538  2024-09-26 10:48:58 history -d 484
-  539* 2024-09-26 10:49:01 
-  540  2024-09-26 10:49:20 cat /home/ec2-user/commandslist.txt > /home/ec2-user/git-training/training-biz-rohitadithya/commandslist.txt
-  541  2024-09-26 10:49:32 cd /home/ec2-user/git-training/training-biz-rohitadithya
-  542  2024-09-26 10:49:36 ls
-  543  2024-09-26 10:50:14 cat /home/ec2-user/git-training/gitcron.sh
-  544  2024-09-26 10:50:26 git add commandslist.txt
-  545  2024-09-26 10:50:33 cat commandslist.txt
-  546  2024-09-26 10:50:55 cat /home/ec2-user/commandslist.txt > /home/ec2-user/git-training/training-biz-rohitadithya/commandslist.txt
-  547  2024-09-26 10:51:11 cat commandslist.txt
-  548  2024-09-26 10:51:19 history
-  549  2024-09-26 10:52:27 history > /home/ec2-user/git-training/training-biz-rohitadithya/commandslist.txt
+  476  2024-09-26 10:20:47 git clone https://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@github.com/rohitADITHYA/training-biz-rohitadithya.git
+  477  2024-09-26 10:20:59 ls
+  478  2024-09-26 10:21:16 rm -rf training-biz-rohitadithya
+  479  2024-09-26 10:21:49 ls
+  480  2024-09-26 10:22:00 cd  git-training
+  481  2024-09-26 10:22:02 ls
+  482  2024-09-26 10:22:17 rm -rf training-biz-rohitadithya
+  483  2024-09-26 10:22:18 ls
+  484  2024-09-26 10:22:25 git clone https://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@github.com/rohitADITHYA/training-biz-rohitadithya.git
+  485  2024-09-26 10:23:24 cat /training-biz-rohitadithya/commandslist.txt
+  486  2024-09-26 10:23:31 ls
+  487  2024-09-26 10:23:40 cd training-biz-rohitadithya
+  488  2024-09-26 10:23:42 ls
+  489  2024-09-26 10:23:50 cat commandslist.txt
+  490  2024-09-26 10:24:26 cd ~
+  491  2024-09-26 10:24:29 history > commandslist.txt
+  492  2024-09-26 10:24:32 history
+  493  2024-09-26 10:25:05 sudo grep CRON /var/log/cron
+  494  2024-09-26 10:25:53 git config --global --edit
+  495  2024-09-26 10:26:28 sudo systemctl restart crond
+  496  2024-09-26 10:26:31 sudo grep CRON /var/log/cron
+  497  2024-09-26 10:32:36 ls
+  498  2024-09-26 10:32:43 cd  git-training
+  499  2024-09-26 10:32:46 ls
+  500  2024-09-26 10:33:10 ssh-keygen -t rsa -b 4096 -C "rohit.adithya.sonkoju@gmail.com"
+  501  2024-09-26 10:34:03 eval "$(ssh-agent -s)"
+  502  2024-09-26 10:34:14 ssh-add ~/.ssh/id_rsa
+  503  2024-09-26 10:34:53 cat ~/.ssh/id_rsa.pub
+  504  2024-09-26 10:36:00 cd ~
+  505  2024-09-26 10:36:03 git remote set-url origin git@github.com:username/repository.git
+  506  2024-09-26 10:36:58 git remote set-url origin git@github.com:rohitADITHYA/training-biz-rohitadithya.git
+  507  2024-09-26 10:38:25 ls
+  508  2024-09-26 10:38:31 cd git-training
+  509  2024-09-26 10:38:35 git remote set-url origin git@github.com:rohitADITHYA/training-biz-rohitadithya.git
+  510  2024-09-26 10:38:43 ls
+  511  2024-09-26 10:38:52 cd training-biz-rohitadithya
+  512  2024-09-26 10:38:55 git remote set-url origin git@github.com:rohitADITHYA/training-biz-rohitadithya.git
+  513  2024-09-26 10:39:08 ssh -T git@github.com
+  514  2024-09-26 10:39:36 git add .
+  515  2024-09-26 10:39:59 git commit -m "$Date"
+  516  2024-09-26 10:40:11 git push origin main
+  517  2024-09-26 10:42:47 git commit -m "$Date"
+  518  2024-09-26 10:42:54 git push origin main
+  519  2024-09-26 10:44:44 history -d <476>
+  520  2024-09-26 10:44:50 history -d <484>
+  521  2024-09-26 10:44:52 git push origin main
+  522  2024-09-26 10:45:12 cd ~
+  523  2024-09-26 10:45:26 history > commandslist.txt
