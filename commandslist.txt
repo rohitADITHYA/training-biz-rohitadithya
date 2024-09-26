@@ -320,3 +320,16 @@ sudo grep CRON /var/log/cron
 crontab -l
 #1727348836
 vi /home/ec2-user/mycron.sh
+sudo grep CRON /var/log/cron
+crontab -e
+sudo systemctl restart crond
+sudo grep CRON /var/log/cron
+crontab -l
+cat /home/ec2-user/git-training/gitcron.sh
+./home/ec2-user/git-training/gitcron.sh
+/home/ec2-user/git-training
+cd /home/ec2-user/git-training
+ls -al
+./gitcron.sh 
+vi ~/.bashrc
+source ~/.bashrc
