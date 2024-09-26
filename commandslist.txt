@@ -334,3 +334,4 @@ ls -al
 vi ~/.bashrc
 source ~/.bashrc
 ./gitcron.sh 
+sudo grep CRON /var/log/cron
