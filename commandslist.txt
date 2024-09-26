@@ -455,3 +455,37 @@
   455  2024-09-26 10:02:22 export HISTTIMEFORMAT="%F %T "
   456  2024-09-26 10:02:31 source ~/.bashrc
   457  2024-09-26 10:02:46 history > commandslist.txt
+  458  2024-09-26 10:03:03 history
+  459  2024-09-26 10:03:15 corntab -l
+  460  2024-09-26 10:03:22 crontab -l
+  461  2024-09-26 10:03:59 vi /home/ec2-user/git-training/gitcron.sh
+  462  2024-09-26 10:05:30 sudo grep CRON /var/log/cron
+  463  2024-09-26 10:07:47  git config --global --edit
+  464  2024-09-26 10:09:08 sudo grep CRON /var/log/cron
+  465  2024-09-26 10:09:28 git commit --amend --reset-author
+  466  2024-09-26 10:10:09 sudo grep CRON /var/log/cron
+  467  2024-09-26 10:12:09 history > commandslist.txt
+  468  2024-09-26 10:12:13 history
+  469  2024-09-26 10:12:19 sudo grep CRON /var/log/cron
+  470  2024-09-26 10:12:35 cat /home/ec2-user/mycron.sh
+  471  2024-09-26 10:12:45 cat /mycronlog.log
+  472  2024-09-26 10:15:52 sudo grep CRON /var/log/cron
+  473  2024-09-26 10:18:53 cat /home/ec2-user/git-training/gitcron.sh
+  474  2024-09-26 10:19:13 crontab -l
+  475  2024-09-26 10:19:56 history
+  476  2024-09-26 10:20:47 git clone https://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@github.com/rohitADITHYA/training-biz-rohitadithya.git
+  477  2024-09-26 10:20:59 ls
+  478  2024-09-26 10:21:16 rm -rf training-biz-rohitadithya
+  479  2024-09-26 10:21:49 ls
+  480  2024-09-26 10:22:00 cd  git-training
+  481  2024-09-26 10:22:02 ls
+  482  2024-09-26 10:22:17 rm -rf training-biz-rohitadithya
+  483  2024-09-26 10:22:18 ls
+  484  2024-09-26 10:22:25 git clone https://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@github.com/rohitADITHYA/training-biz-rohitadithya.git
+  485  2024-09-26 10:23:24 cat /training-biz-rohitadithya/commandslist.txt
+  486  2024-09-26 10:23:31 ls
+  487  2024-09-26 10:23:40 cd training-biz-rohitadithya
+  488  2024-09-26 10:23:42 ls
+  489  2024-09-26 10:23:50 cat commandslist.txt
+  490  2024-09-26 10:24:26 cd ~
+  491  2024-09-26 10:24:29 history > commandslist.txt
