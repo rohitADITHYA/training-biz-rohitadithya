@@ -1,0 +1,523 @@
+ssh rohit@13.60.210.225
+logout
+nano /etc/ssh/sshd_config
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+exit
+vi
+vi /etc/ssh/sshd-config
+Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+lscpu
+cat /etc/os-release
+vim /etc/ssh/sshd-config
+emacs /etc/ssh/sshd-config
+ed /etc/ssh/sshd-config
+echo /etc/ssh/sshd-config
+ssh -i "C:\Users\rohit.sonkoju\Downloads\rohitadithya-biz-training-keypair.pem" ec2-user@13.60.242.235
+sudo vi /etc/ssh/sshd_config
+sudo systemctl restart sshd
+passwd
+exit
+rebooy
+reboot
+passwd
+exit
+passwd ec2-user
+pwd
+vi /etc/ssh/sshd-config
+sudo vi /etc/ssh/sshd_config
+service sshd restart
+exit
+#1726564334
+export HISTTIMEFORMAT="%F %T "
+#1726564350
+source ~/.bashrc
+#1726564360
+history > commandslist.txt
+#1726564395
+exit
+passwd
+sudo -i
+exit
+sudo vi /etc/ssh/sshd_config
+service sshd restart
+sudo -i
+logout
+sudo -i
+exit
+sudo -i
+exit
+sudo -i
+exit
+sudo -i
+exit
+sudo -i
+logout
+sudo -i
+logout
+sudo -i
+exit
+sudo -i
+cd .ssh
+ls -a
+vi authorized_keys
+cd .ssh
+vi .ssh
+sudo -i
+exit
+su rohit
+vi authorized_keys
+cd ~
+su root
+cat /etc/redhat-release 
+df -ah
+free
+free -g
+free -m
+top
+ls cpu
+lscpu
+yum update
+sudo yum update
+lscpu
+free -m
+df -ah
+sudo yum install java@latest
+sudo yum install java-21-openjdk
+java -version
+sudo yum install wget
+wget [200~https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm~
+wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+ls -h
+ls -al
+ls -lh
+ls
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+ls
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
+wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+sudo yum localinstall compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm 
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+free -m
+sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm 
+history
+sufo /etc/init.d/oracle-xe-21c configure
+sudo /etc/init.d/oracle-xe-21c configre
+configure
+sudo /etc/init.d/oracle-xe-21c configure
+cat /opt/oracle/cfgtoollogs/dbca
+vi /opt/oracle/cfgtoollogs/dbca
+cd opt
+cd /opt
+ls -al
+cd oracle
+ls -al
+cd product
+ls -al
+cd 21c
+ls -al
+cd dbhmoeXE
+cd dbhomeXE
+ls -al
+cd cv
+ls -al
+cd admin
+ls -al
+sudo vi [200~cvu_config
+ls -al
+cat cvu_config
+sudo vi cvu_config
+cd ~
+sudo /etc/init.d/oracle-xe-21c configure
+sqlplus
+export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+export ORACLE_SID=XE
+e
+export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+sqlplus
+whoami
+sqlplus
+ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+export ORACLE_SID=XE
+export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+sqlplus
+whoami
+sqlplus
+history
+export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+export ORACLE_SID=XE
+export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+sqlplus
+history
+sqlplus
+export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+export ORACLE_SID=XE
+export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+sqlplus
+bash profile
+ls -a
+cd .bash_profile
+cd bash_profile
+vi .bash_profile
+sqlplus
+history
+sqlplus
+export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+export ORACLE_SID=XE
+ export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+sqlplus
+sudo -i
+source ~/.bash_profile
+sqlplus
+sudo service oracle-xe-21c start
+sqlplus
+history
+sqlplus
+sudo -i
+sqlplus
+source ~/.bash_profile
+sqlplus
+sudo -i
+vi .bash_profile
+ls -al
+ls -a
+cd ~
+ls -a
+sudo -i
+sqlplus
+sqlplus classicmodels/classicmodels
+sqlplus
+source ~/.bash_profile
+sqlplus
+history
+sudo service oracle-xe-21c start
+cd 
+pwd
+ls
+cd -
+sudo -i
+cd 
+cd /opt/oracle/product/21c/dbhomeXE
+cd bin
+ls
+imp classicmodels/classicmodels FILE=/home/ec2-user/'classicmodels .dmp'
+imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels .dmp
+imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp
+which impdp
+pwd
+imp classicmodels/classicmodels FILE=/home/ec2-user/classicmodels.dmp
+impdp classicmodels/classicmodels@database DIRECTORY=data_pump_dir DUMPFILE=classicmodels.dmp
+cd imp
+vi imp
+source imp
+ cd /opt/oracle/product/21c/dbhomeXE/bin
+imp classicmodels/classicmodels FILE=/home/ec2-user/'classicmodels .dmp' log=/home/ec2-user/import.log FULL=Y
+sqlplus
+source ~/.bash_profile
+sqlplus
+cd ~
+sqlplus
+source ~/.bash_profile
+sqlplus
+lsnrctl start
+cdmod 777 /opt/oracle/product/21c/dbhomeXE/network/log
+chmod 777 /opt/oracle/product/21c/dbhomeXE/network/log
+cd 
+cd
+cd ~
+chmod 777 /opt/oracle/product/21c/dbhomeXE/network/log
+sudo -i
+esit
+exit
+ls -a
+vi .bash_profile
+sqlplus
+history
+sudo service oracle-xe-21c start
+sqlplus
+imp classicmodels/classicmodels FILE=
+ls
+mv 'classicmodels .dmp' classicmodels.dmp
+ls
+imp classicmodels.classicmodels FILE=/home/ec2-user/classicmodels.dmp log=/home/ec2-user/import.log FULL=Y
+history
+ls
+cd git-trainning
+cd git-training
+history
+history > commandslist.txt
+cat commandslist.txt
+history
+crontab -e
+vi crontab
+ssh
+ls -a
+crontab -e
+vi mycron.sh
+cat mycron.sh
+crontab -e
+cat crontab
+crontab -e
+crontab -l
+sudo systemctl start crond
+crontab -l
+cat mycron/sh
+cat mycron.sh
+sudo systemctl status crond
+cat /tmp/cron.log
+vi mycronlog.log
+cat mycronlog.log
+crontab -e
+ls
+vi mycron.sh
+crontab -e
+cat mycronlog.log
+vi mycorn.sh
+vi mycronlog.log
+crontab -e
+cat mycron.sh
+cat mycronlog.log
+crontab -l
+chmod +x /mycron.sh
+chmod +x mycron.sh
+cat mycronlog.log
+crontab -e
+sudo systemctl restart crond
+sudo grep CRON /var/log/cron
+cat mycronlog.log
+sudo systemctl restart crond
+sudo grep CRON /var/log/cron
+touch /home/ec2-user/mycronlog.log
+ls
+chmod 644 /home/ec2-user/mycronlog.log
+cat /home/ec2-user/mycronlog.log
+sudo grep CRON /var/log/cron
+sudo systemctl restart crond
+sudo grep CRON /var/log/cron
+crontab -l
+cat /home/ec2-user/mycron.sh
+sudo grep CRON /var/log/cron
+sudo touch /mycronlog.log
+sudo chmod 666 /mycronlog.log
+sudo grep CRON /var/log/cron
+sudo systemctl restart crond
+sudo grep CRON /var/log/cron
+cat mycronlog.log
+cat /home/ec2-user/mycron.sh
+cat /mycronlog.log
+clear
+cat /mycronlog.log
+clear
+cat /mycronlog.log
+cd ~
+ls
+#1727334350
+ls
+#1727334365
+mkdir git-training
+#1727334371
+cd git-training
+#1727334375
+ls
+#1727334383
+touch gitcron.sh
+#1727334385
+ls
+#1727334456
+touch gitcmdhis.log
+#1727334458
+ls
+#1727334461
+ls -a
+#1727334488
+crontab -l
+#1727334496
+crontab -e
+#1727334548
+chmod +x .gitcron.sh
+#1727334556
+chmod +x /gitcron.sh
+#1727334561
+chmod +x gitcron.sh
+#1727334568
+history
+#1727334640
+cd .
+#1727334643
+cd ..
+#1727334647
+history
+#1727334667
+cd git-training
+#1727334668
+ls
+#1727334693
+sudo chmod 666 gitcmdhis.log
+#1727334699
+vi gitcron.sh
+#1727334856
+cat /home/ec2-user/mycronlog.log
+#1727334865
+cd ..
+#1727334869
+cat /home/ec2-user/mycronlog.log
+#1727334890
+cd ~
+#1727334893
+cat /home/ec2-user/mycronlog.log
+#1727334900
+ls
+#1727334910
+cat mycronlog.log
+#1727334917
+mycron.sh
+#1727334922
+cat mycron.sh
+#1727334933
+cat /mycronlog.log
+#1727334949
+cd /mycronlog.log
+#1727335008
+sudo grep CRON /var/log/cron
+#1727335039
+cd /home
+#1727335053
+cd /ec2-user
+#1727335059
+ls
+#1727335070
+cd ~
+#1727335071
+ls
+#1727335085
+cd git-training
+#1727335086
+ls
+#1727335092
+vi gitcron.sh
+#1727335133
+crontab -l
+#1727335140
+crontab -e
+#1727335173
+sudo systemctl restart crond
+#1727335189
+sudo grep CRON /var/log/cron
+#1727335206
+cat gitcron.sh
+#1727335219
+cat gitcmdhis.log
+#1727335232
+sudo grep CRON /var/log/cron
+#1727335263
+cat gitcmdhis.log
+#1727335275
+history
+#1727335285
+cat gitcron.sh
+#1727335308
+crontab -l
+#1727335353
+sudo grep CRON /var/log/cron
+#1727335377
+cat /gitcmdhis.log
+#1727335386
+cat /home/ec2-user/git-training/gitcron.sh
+#1727335418
+cat gitcronlsh
+#1727335422
+cat gitcron.sh
+#1727335432
+cat gitcmdhis.log
+#1727335433
+ls
+#1727335485
+chmod 644 /home/ec2-user/git-training/gitcmdhis.log
+#1727335528
+sudo chmod 666 /gitcmdhis.log
+#1727335535
+sudo chmod 666 gitcmdhis.log
+#1727335545
+cat gitcmdhis.log
+#1727335553
+vi gitcmdhis.log
+#1727335564
+cat gitcmdhis.log
+#1727335578
+sudo grep CRON /var/log/cron
+#1727335607
+sudo systemctl restart crond
+#1727335610
+sudo grep CRON /var/log/cron
+#1727335632
+vi gitcron.sh
+#1727335733
+cd command
+#1727335736
+ls
+#1727335740
+cd ~
+#1727335742
+ls
+#1727335744
+ls -a
+#1727335772
+cd  commandslist.txt
+#1727335780
+cat commandslist.txt
+#1727335796
+vi commandslist.txt
+#1727335862
+ export HISTTIMEFORMAT="%F %T "
+#1727335886
+source ~/.bashrc
+#1727335902
+history > commandslist.txt
+#1727335907
+cat commandslist.txt
+#1727336020
+cd git-training
+#1727336032
+vi gitcron.sh
+#1727336120
+crontab -l
+#1727336137
+sudo grep CRON /var/log/cron
+#1727336172
+cat /home/ec2-user/git-training/gitcmdhis.log
+#1727336182
+cat gitcmdhis.log
+#1727336198
+vi gitcmdhis.log
+#1727336218
+cat /home/ec2-user/git-training/gitcmdhis.log
+#1727336234
+crontab -l
+#1727336247
+cat /home/ec2-user/git-training/gitcron.sh
+#1727336264
+cat /home/ec2-user/commandslist.txt
+#1727336318
+vi /home/ec2-user/git-training/gitcron.sh
+#1727336368
+cat /home/ec2-user/git-training/gitcron.sh
+#1727336380
+cat /home/ec2-user/commandslist.txt
+#1727336396
+cat /home/ec2-user/git-training/gitcmdhis.log
+#1727336419
+sudo systemctl restart crond
+#1727336434
+cat gitcron.sh
+#1727336459
+vi gitcron.sh
+ls
+cd git-training
+ls
+cd training-biz-rohitadithya
+ls
+touch commandslist.txt
+ls
