@@ -1,0 +1,322 @@
+#1727343045
+sudo yum install git -y
+#1727343068
+git  -version
+#1727343076
+git --version
+#1727343577
+git init
+#1727343594
+git@github.com:rohitADITHYA/training-biz-rohitadithya.git
+#1727343610
+ssh git@github.com:rohitADITHYA/training-biz-rohitadithya.git
+#1727343914
+ls
+#1727343930
+cd training-biz-rohitadithya
+#1727343942
+ls
+#1727343959
+touch commandslist.txt
+#1727343962
+ls
+#1727343986
+rm training-biz-rohitadithya
+#1727344033
+rm -rf training-biz-rohitadithya
+#1727344035
+ls
+#1727344042
+cd ~
+#1727344043
+ls
+#1727344048
+rm -rf training-biz-rohitadithya
+#1727344050
+ls
+#1727344060
+cd git-training
+#1727344077
+ng-biz-rohitadithya.git
+#1727344097
+ls
+#1727344108
+vi gitcron.sh
+#1727344472
+corntab -l
+#1727344480
+vi gitcron.sh
+#1727344548
+cd ~
+#1727344554
+corntab -l
+#1727344561
+crontab -l
+#1727344568
+history
+#1727344604
+sudo grep CRON /var/log/cron
+#1727344641
+sudo systemctl restart crond
+#1727344643
+sudo grep CRON /var/log/cron
+#1727344727
+crontab -l
+#1727344733
+sudo grep CRON /var/log/cron
+#1727344759
+crontab -l
+#1727344772
+cat /home/ec2-user/git-training/gitcron.sh
+#1727344784
+cd /home/ec2-user/git-training/training-biz-rohitadithya
+#1727344812
+cat /home/ec2-user/git-training/training-biz-rohitadithya/commandslist.txt
+#1727344839
+sudo grep CRON /var/log/cron
+#1727344918
+cd ~
+#1727344942
+export HISTTIMEFORMAT="%F %T "
+#1727344951
+source ~/.bashrc
+#1727344966
+history > commandslist.txt
+#1727344983
+history
+#1727344995
+corntab -l
+#1727345002
+crontab -l
+#1727345039
+vi /home/ec2-user/git-training/gitcron.sh
+#1727345130
+sudo grep CRON /var/log/cron
+#1727345267
+ git config --global --edit
+#1727345348
+sudo grep CRON /var/log/cron
+#1727345368
+git commit --amend --reset-author
+#1727345409
+sudo grep CRON /var/log/cron
+#1727345529
+history > commandslist.txt
+#1727345533
+history
+#1727345539
+sudo grep CRON /var/log/cron
+#1727345555
+cat /home/ec2-user/mycron.sh
+#1727345565
+cat /mycronlog.log
+#1727345752
+sudo grep CRON /var/log/cron
+#1727345933
+cat /home/ec2-user/git-training/gitcron.sh
+#1727345953
+crontab -l
+#1727345996
+history
+#1727346059
+ls
+#1727346076
+rm -rf training-biz-rohitadithya
+#1727346109
+ls
+#1727346120
+cd  git-training
+#1727346122
+ls
+#1727346137
+rm -rf training-biz-rohitadithya
+#1727346138
+ls
+#1727346220
+cd training-biz-rohitadithya
+#1727346222
+ls
+#1727346230
+cat commandslist.txt
+#1727346266
+cd ~
+#1727346269
+history > commandslist.txt
+#1727346272
+history
+#1727346305
+sudo grep CRON /var/log/cron
+#1727346353
+git config --global --edit
+#1727346388
+sudo systemctl restart crond
+#1727346391
+sudo grep CRON /var/log/cron
+#1727346756
+ls
+#1727346763
+cd  git-training
+#1727346766
+ls
+#1727346790
+ssh-keygen -t rsa -b 4096 -C "rohit.adithya.sonkoju@gmail.com"
+#1727346843
+eval "$(ssh-agent -s)"
+#1727346854
+ssh-add ~/.ssh/id_rsa
+#1727346893
+cat ~/.ssh/id_rsa.pub
+#1727346960
+cd ~
+#1727346963
+git remote set-url origin git@github.com:username/repository.git
+#1727347018
+git remote set-url origin git@github.com:rohitADITHYA/training-biz-rohitadithya.git
+#1727347105
+ls
+#1727347111
+cd git-training
+#1727347115
+git remote set-url origin git@github.com:rohitADITHYA/training-biz-rohitadithya.git
+#1727347123
+ls
+#1727347132
+cd training-biz-rohitadithya
+#1727347135
+git remote set-url origin git@github.com:rohitADITHYA/training-biz-rohitadithya.git
+#1727347148
+ssh -T git@github.com
+#1727347176
+git add .
+#1727347199
+git commit -m "$Date"
+#1727347211
+git push origin main
+#1727347367
+git commit -m "$Date"
+#1727347374
+git push origin main
+#1727347484
+history -d <476>
+#1727347490
+history -d <484>
+#1727347492
+git push origin main
+#1727347512
+cd ~
+#1727347526
+history > commandslist.txt
+#1727347567
+cd /home/ec2-user
+#1727347569
+ls
+#1727347577
+cd  git-training
+#1727347586
+ls
+#1727347601
+cat gitcron.sh
+#1727347608
+cat /home/ec2-user/commandslist.txt > /home/ec2-user/git-training/training-biz-rohitadithya/commandslist.txt
+#1727347618
+git add commandslist.txt
+#1727347624
+git commit -m "$(date)"
+#1727347642
+cd training-biz-rohitadithya
+#1727347645
+git add commandslist.txt
+#1727347648
+git commit -m "$(date)"
+#1727347664
+git push origin main
+#1727347678
+history
+#1727347690
+cd ~
+#1727347711
+git push origin main
+#1727347734
+history -d 476
+#1727347738
+history -d 484
+#1727347741
+
+#1727347760
+cat /home/ec2-user/commandslist.txt > /home/ec2-user/git-training/training-biz-rohitadithya/commandslist.txt
+#1727347772
+cd /home/ec2-user/git-training/training-biz-rohitadithya
+#1727347776
+ls
+#1727347814
+cat /home/ec2-user/git-training/gitcron.sh
+#1727347826
+git add commandslist.txt
+#1727347833
+cat commandslist.txt
+#1727347855
+cat /home/ec2-user/commandslist.txt > /home/ec2-user/git-training/training-biz-rohitadithya/commandslist.txt
+#1727347871
+cat commandslist.txt
+#1727347879
+history
+#1727347947
+history > /home/ec2-user/git-training/training-biz-rohitadithya/commandslist.txt
+#1727347955
+cat /home/ec2-user/git-training/training-biz-rohitadithya/commandslist.txt
+#1727347975
+git add commandslist.txt
+#1727347982
+git commit -m "$(date)"
+#1727347990
+git push origin main
+#1727348041
+history
+#1727348063
+history -d 484
+#1727348066
+history -d 483
+#1727348070
+history
+#1727348090
+history -d 433
+#1727348095
+history -d 434
+#1727348098
+history
+#1727348129
+history -d 419
+#1727348132
+history
+#1727348157
+export HISTTIMEFORMAT="%F %T "
+#1727348157
+source ~/.bashrc
+#1727348157
+history > commandslist.txt
+#1727348169
+cat commandslist.txt
+#1727348331
+cd ~
+#1727348338
+crontab -l
+#1727348347
+vi /home/ec2-user/mycron.sh
+#1727348384
+cat /home/ec2-user/mycron.sh
+#1727348423
+cat commandslist.txt
+#1727348428
+ls
+#1727348440
+cat commandslist.txt
+#1727348620
+sudo grep CRON /var/log/cron
+#1727348710
+history > commandslist.txt
+#1727348713
+sudo grep CRON /var/log/cron
+#1727348824
+crontab -l
+#1727348836
+vi /home/ec2-user/mycron.sh
