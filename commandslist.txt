@@ -402,3 +402,5 @@ cat file1.txt
 sudo grep CRON /var/log/cron
 vi /home/ec2-user/git-training/gitcron.sh
 sudo grep CRON /var/log/cron
+crontab -l
+sudo grep CRON /var/log/cron
