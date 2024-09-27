@@ -404,3 +404,6 @@ vi /home/ec2-user/git-training/gitcron.sh
 sudo grep CRON /var/log/cron
 crontab -l
 sudo grep CRON /var/log/cron
+ls
+ls -a
+sudo grep CRON /var/log/cron
