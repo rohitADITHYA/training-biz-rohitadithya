@@ -476,3 +476,13 @@ echo -n "This will not add a new line"
 echo -e "\n\nThis will not add \na\t new line"
 crontab -e
 crontab -l
+ls
+cd .
+cd ..
+ls
+cd ~
+cd rohit
+cd oracle
+ls
+cat import.log
+history
