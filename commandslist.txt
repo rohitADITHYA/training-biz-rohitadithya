@@ -409,3 +409,70 @@ ls -a
 sudo grep CRON /var/log/cron
 crontab -l
 sudo grep CRON /var/log/cron
+crontab -e
+sudo grep CRON /var/log/cron
+clear
+crontab -e
+crontab -l
+clear
+history
+cd ~
+history
+clear
+history
+clear
+reverse search
+clear
+vi /home/ec2-user/git-training/gitcron.sh
+clet
+clear
+cd ~
+clear
+grep "error" / | wc -l
+ls
+cat file1.txt
+clear
+ls
+cat mycronlog.log
+vi file.txt
+clear
+cat file.txt
+grep "line" /file.txt | wc -l
+clear
+cat file.txt
+grep "line" file.txt | wc -l
+clear
+sudo -i
+clear
+ls
+cat file.txt
+clear
+cat file.txt
+sed 's/line/replacedline/g' file.txt
+cat file.txt
+sed '/line/replacedline/g' file.txt
+clear
+free -g
+free -m
+free -b
+clear
+du -h
+clear
+df -hiaT --total
+df -hiaT
+clear
+df -hiaT --total
+top
+uname
+uname -srvmnop
+uname -a
+hostname
+hostname -i
+hostname -f
+hostnamectl
+echo -n "This will not add a new line"
+echo "This will add a new line"
+echo -n "This will not add a new line"
+echo -e "\n\nThis will not add \na\t new line"
+crontab -e
+crontab -l
