@@ -486,3 +486,7 @@ cd oracle
 ls
 cat import.log
 history
+hostname
+top
+uname
+history
