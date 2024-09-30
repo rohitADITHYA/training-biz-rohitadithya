@@ -490,3 +490,13 @@ hostname
 top
 uname
 history
+crontab -e
+yum
+cd ~
+clear
+crontab
+crontab -l
+crontab -e
+crontab -l
+clear
+xming
