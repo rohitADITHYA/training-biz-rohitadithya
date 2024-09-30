@@ -583,3 +583,10 @@ wc file.txt
 wc -m file.txt
 clear
 crontab -l
+clear
+cat file.txt
+grep --color -i "liNe" file.txt
+grep --color -i "liNe|is the" file.txt
+grep --color -i "liNe|is|Th" file.txt
+grep --color -i -E "liNe|is|Th" file.txt
+grep --color -E "liNe|is|Th" file.txt
