@@ -560,3 +560,11 @@ kill 61
 clear
 cat file1.txt
 less -N file1.txt
+more -d -num -c file1.txt
+clear
+cat file1.txt
+more -d -3 -c file1.txt
+q
+:wq
+:q!
+exit
