@@ -552,3 +552,6 @@ awk '$1 == "durga" {print $3, $4}' file1.txt
 ps -ef
 clear
 ps -ef
+kill
+clear
+kill -l
