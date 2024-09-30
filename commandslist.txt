@@ -535,3 +535,20 @@ clr
 rm file1.txt
 vi file1.txt
 cat file1.txt
+awk '$1 == durga {print $3, $4}' file1.txt
+cat file1.txt
+awk '$1 == durga {echo $3, $4}' file1.txt
+awk '$1 == "durga" {echo $3, $4}' file1.txt
+awk '$1 == "durga" {print $3, $4}' file1.txt
+clear
+cat file1.txt
+awk '$1 == "durga" {}' file1.txt
+clear
+cat file1.txt
+awk '$1 == "durga" {print $3\n $4}' file1.txt
+clear
+cat file1.txt
+awk '$1 == "durga" {print $3, $4}' file1.txt
+ps -ef
+clear
+ps -ef
