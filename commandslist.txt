@@ -619,3 +619,10 @@ clear
 .profle
 .profile
 profile
+cd ~
+cleaer
+clear
+.profile
+profile
+~/.profile
+ls -al
