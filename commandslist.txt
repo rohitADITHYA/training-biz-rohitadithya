@@ -500,3 +500,6 @@ crontab -e
 crontab -l
 clear
 xming
+clear ls
+clear
+ls
