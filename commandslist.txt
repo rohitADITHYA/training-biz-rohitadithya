@@ -590,3 +590,6 @@ grep --color -i "liNe|is the" file.txt
 grep --color -i "liNe|is|Th" file.txt
 grep --color -i -E "liNe|is|Th" file.txt
 grep --color -E "liNe|is|Th" file.txt
+grep -i  "liNe" file.txt
+grep "line" file.txt
+grep -l "line" file.txt
