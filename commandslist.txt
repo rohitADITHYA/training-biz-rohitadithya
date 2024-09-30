@@ -555,3 +555,8 @@ ps -ef
 kill
 clear
 kill -l
+kill 1
+kill 61
+clear
+cat file1.txt
+less -N file1.txt
