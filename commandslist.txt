@@ -510,3 +510,8 @@ clear
 ls -alhRStr1iFG --group-directories-first
 clear
 ls -alh1iF --group-directories-first
+ssh 
+clear
+ssh 
+clear
+autossh
