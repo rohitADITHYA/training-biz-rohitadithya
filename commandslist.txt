@@ -577,3 +577,7 @@ tail -n 3 file.txt
 clear
 cat file.txt
 head -n 3 file.txt
+clear
+cat file.txt
+wc file.txt
+wc -m file.txt
