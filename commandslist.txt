@@ -581,3 +581,5 @@ clear
 cat file.txt
 wc file.txt
 wc -m file.txt
+clear
+crontab -l
