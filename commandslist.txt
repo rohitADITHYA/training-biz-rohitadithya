@@ -503,3 +503,8 @@ xming
 clear ls
 clear
 ls
+ls -p
+ls -alhRStrd1iFG --group-directories-first
+ls -alhRStr1iFG --group-directories-first
+clear
+ls -alhRStr1iFG --group-directories-first
