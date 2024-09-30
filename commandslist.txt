@@ -594,3 +594,10 @@ grep -i  "liNe" file.txt
 grep "line" file.txt
 grep -l "line" file.txt
 clear
+cat file.txt
+grep -l "line" 
+grep -l "line" file.txt
+grep "line" file.txt
+clear
+cat file.txt
+find . -type f -name "*.txt" 
