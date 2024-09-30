@@ -526,3 +526,6 @@ cleaer
 clear
 tunnel
 nslookup
+clear
+ifconfig
+ifconfig eth0
