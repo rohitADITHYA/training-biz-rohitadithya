@@ -626,3 +626,14 @@ clear
 profile
 ~/.profile
 ls -al
+pwd
+cd ~
+pwd
+bash_profile
+.bash_profile
+~/bash_profile
+ls -a;
+ls -al
+~/.bash_profile
+clear
+cat .bash_profile
