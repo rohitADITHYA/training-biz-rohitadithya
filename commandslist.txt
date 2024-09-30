@@ -524,3 +524,4 @@ telner
 telnet
 cleaer
 clear
+tunnel
