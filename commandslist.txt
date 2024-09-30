@@ -519,3 +519,8 @@ clear
 ping
 ping 13.60.223.243
 ping 127.0.0.1
+clear
+telner
+telnet
+cleaer
+clear
