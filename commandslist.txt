@@ -637,3 +637,5 @@ ls -al
 ~/.bash_profile
 clear
 cat .bash_profile
+sudo -i
+sudo -i
