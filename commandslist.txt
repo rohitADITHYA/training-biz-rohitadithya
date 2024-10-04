@@ -799,3 +799,15 @@ cat mailscript.py
 vi mailscript.py
 clear
 ls
+cat mailcronjob.sh
+cat mailscript.py
+clear
+source mailcronjob.sh
+cat mailscript.sh
+ls
+source mailcronjob.sh
+cat mailscript.py
+vi mailscript.py
+source mailcronjob.sh
+cd ..
+clear
