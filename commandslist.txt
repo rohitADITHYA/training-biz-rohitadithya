@@ -639,3 +639,8 @@ clear
 cat .bash_profile
 sudo -i
 sudo -i
+clear
+ls
+ls -a
+touch mailassign.sh
+ls
