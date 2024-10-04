@@ -655,3 +655,12 @@ sudo -i
 crontab -l
 sudo -i
 clear
+ls
+cat mailassign.sh
+systemctl status postfix
+echo "This is a test message" | mail -s Trail rohitadithya3@gmail.com
+sudo yum install mailx
+sudo yum install mailutils
+rhc
+rhc connect --username rohitadithya --password ronnyADIT@,1223
+clear
