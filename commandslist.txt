@@ -649,3 +649,7 @@ cat mailassign.sh
 sudo apt update
 sudo apt install mailutils
 sudo yum install mailx
+yum remove sendmail
+yum install postfix
+sudo -i
+crontab -l
