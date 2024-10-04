@@ -760,3 +760,9 @@ vi mailscript.py
 source mailcronjob.sh
 vi mailscript.py
 source mailcronjob.sh
+vi mailscript.py
+clear
+ls
+cat mailcronjob.sh
+clear
+source mailcronjob.sh
