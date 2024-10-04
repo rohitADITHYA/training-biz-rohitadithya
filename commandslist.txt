@@ -726,3 +726,20 @@ chmod +x mailcronjob.sh
 vi cpudetails.yxy
 ls
 vi cpudetails.txt
+vi mailcronjob.sh
+vi cpudetails.txt
+source mailcronjob.sh
+vi mailcronjob.sh
+source mailcronjob.sh
+clear
+cat cpudetails.txt
+source mailcronjob.sh
+cat cpudetails.txt
+vi mailcronjob.sh
+source mailcronjob.sh
+cat cpudetails.txt
+clear
+ls
+cd mailassign
+ls
+vi mailcronjob.sh
