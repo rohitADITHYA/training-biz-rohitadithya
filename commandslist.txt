@@ -668,3 +668,6 @@ sudo yum install mailx
 sudo subscription-manager register
 rhc
 sudo subscription-manager register
+rhc
+rhc connect --username rohitadithya --password ronnyADIT@,1223
+clear
