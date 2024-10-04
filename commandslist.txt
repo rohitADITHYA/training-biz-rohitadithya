@@ -644,3 +644,8 @@ ls
 ls -a
 touch mailassign.sh
 ls
+vi mailassign.sh
+cat mailassign.sh
+sudo apt update
+sudo apt install mailutils
+sudo yum install mailx
