@@ -675,3 +675,4 @@ cd ~
 clear
 ls -a
 vi send_mail
+python3 send_mail
