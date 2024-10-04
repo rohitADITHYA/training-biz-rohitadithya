@@ -766,3 +766,9 @@ ls
 cat mailcronjob.sh
 clear
 source mailcronjob.sh
+clear
+ls
+cd mailassign
+ls
+clear
+python3 mailscript.py
