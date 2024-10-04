@@ -785,3 +785,9 @@ cat mailcronjob.sh
 clear
 ls
 cat mailcronjob.sh
+cat mailscript.py
+vi mailcronjob.sh
+clear
+ls
+cat mailcronjob.sh
+vi mailcronjob.sh
