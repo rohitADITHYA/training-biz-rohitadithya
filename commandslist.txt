@@ -825,3 +825,4 @@ pwd
 ls
 crontab -e
 clear
+sudo grep CRON /var/log/cron
