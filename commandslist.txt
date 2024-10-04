@@ -829,3 +829,6 @@ sudo grep CRON /var/log/cron
 cat /var/spool/mail/ec2-user
 clear
 sudo grep CRON /var/log/cron
+crontab -l
+source /home/ec2-user/mailassign/mailcronjob.sh
+cat /home/ec2-user/mailassign/mailcronjob.sh
