@@ -782,3 +782,6 @@ python3 mailscript.py
 ls
 cat mailscript.py
 cat mailcronjob.sh
+clear
+ls
+cat mailcronjob.sh
