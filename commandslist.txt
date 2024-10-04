@@ -811,3 +811,17 @@ vi mailscript.py
 source mailcronjob.sh
 cd ..
 clear
+ls
+cd mailassign
+ls
+cd ..
+cd mailassign
+awd
+pwd
+cd ..
+ls
+cd mailassign
+pwd
+ls
+crontab -e
+clear
