@@ -826,3 +826,6 @@ ls
 crontab -e
 clear
 sudo grep CRON /var/log/cron
+cat /var/spool/mail/ec2-user
+clear
+sudo grep CRON /var/log/cron
