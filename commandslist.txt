@@ -796,3 +796,6 @@ ls
 cat mailcronjob.sh
 ls
 cat mailscript.py
+vi mailscript.py
+clear
+ls
