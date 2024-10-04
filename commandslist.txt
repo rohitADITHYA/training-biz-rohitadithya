@@ -772,3 +772,8 @@ cd mailassign
 ls
 clear
 python3 mailscript.py
+cat mailscript.py
+vi mailscript.py
+python3 mailscript.py
+vi mailscript.py
+python3 mailscript.py
