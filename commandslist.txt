@@ -696,3 +696,20 @@ python3 send_mail.py
 sudo -i
 ls
 cat send_mail
+python3 send_mail
+clear
+cat send_mail
+clear
+ls
+rm send_mail
+cd mailassign
+ls
+vi mailscript.py
+cat mailscript.py
+clear
+ls
+touch mailcronjob.sh
+ls
+cpudetails.txt
+touch cpudetails.txt
+ls
