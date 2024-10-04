@@ -743,3 +743,16 @@ ls
 cd mailassign
 ls
 vi mailcronjob.sh
+source mailcronjob.sh
+vi mailscript.py
+source mailcronjob.sh
+cd git-training
+cd ..
+cd git-training
+ls
+gitcron.sh
+cat gitcron.sh
+vi mailscript.py
+source mailcronjob.sh
+vi mailscript.py
+source mailcronjob.sh
