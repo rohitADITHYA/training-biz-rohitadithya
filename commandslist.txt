@@ -844,3 +844,14 @@ cd mailassign
 ls
 source mailcronjob.sh
 python3 mailscript.py
+vi /home/ec2-user/mailassign/mailcronjob.sh
+source mailcronjob.sh
+cd ..
+source mailcronjob.sh
+source mailassign/mailcronjob.sh
+crontab -l
+sudo grep CRON /var/log/cron
+crontab -e
+sudo grep CRON /var/log/cron
+source /home/ec2-user/mailassign/mailcronjob.sh
+sudo grep CRON /var/log/cron
