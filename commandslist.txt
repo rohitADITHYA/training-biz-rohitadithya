@@ -855,3 +855,7 @@ crontab -e
 sudo grep CRON /var/log/cron
 source /home/ec2-user/mailassign/mailcronjob.sh
 sudo grep CRON /var/log/cron
+sudo -i
+vi mailscript.py
+crontab -e
+sudo grep CRON /var/log/cron
