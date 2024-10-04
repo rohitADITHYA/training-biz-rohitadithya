@@ -671,3 +671,7 @@ sudo subscription-manager register
 rhc
 rhc connect --username rohitadithya --password ronnyADIT@,1223
 clear
+cd ~
+clear
+ls -a
+vi send_mail
