@@ -832,3 +832,15 @@ sudo grep CRON /var/log/cron
 crontab -l
 source /home/ec2-user/mailassign/mailcronjob.sh
 cat /home/ec2-user/mailassign/mailcronjob.sh
+vi /home/ec2-user/mailassign/mailcronjob.sh
+crontab -e
+crontab -l
+sudo grep CRON /var/log/cron
+source /home/ec2-user/mailassign/mailcronjob.sh
+chmod +x /home/ec2-user/m/home/ec2-user/mailassign/mailscript.py
+ls
+cd mailassign.sh
+cd mailassign
+ls
+source mailcronjob.sh
+python3 mailscript.py
