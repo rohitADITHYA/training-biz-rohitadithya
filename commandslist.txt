@@ -713,3 +713,16 @@ ls
 cpudetails.txt
 touch cpudetails.txt
 ls
+echo "CPU, RAM, and Storage Info for $(hostname) - $(date)" > "$INFO_FILE"
+echo "CPU, RAM, and Storage Info" > cpudetails.txt
+cat cpudetails.txt
+echo "-----------------------------------------------------" >> cpudetails.txt
+echo "CPU Information:" >> cpudetails.txt
+lscpu >> cpudetails.txt
+echo "" >> cpudetails.txt
+vi mailcronjob.sh
+clear
+chmod +x mailcronjob.sh
+vi cpudetails.yxy
+ls
+vi cpudetails.txt
