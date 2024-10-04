@@ -653,3 +653,4 @@ yum remove sendmail
 yum install postfix
 sudo -i
 crontab -l
+sudo -i
