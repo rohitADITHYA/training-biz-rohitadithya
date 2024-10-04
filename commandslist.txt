@@ -777,3 +777,8 @@ vi mailscript.py
 python3 mailscript.py
 vi mailscript.py
 python3 mailscript.py
+vi mailscript.py
+python3 mailscript.py
+ls
+cat mailscript.py
+cat mailcronjob.sh
