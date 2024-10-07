@@ -878,3 +878,7 @@ clear
 crontab -l
 vi mailassign/mailcronjob.sh
 vi mailassign/mailscript.py
+vi mailassign/mailcronjob.sh
+cat mailassign/cpudetails.txt
+vi mailassign/mailscript.py
+cat mailassign/mailscript.py
