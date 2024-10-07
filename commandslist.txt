@@ -859,3 +859,7 @@ sudo -i
 vi mailscript.py
 crontab -e
 sudo grep CRON /var/log/cron
+clear
+ls
+cd mailassign
+ls
