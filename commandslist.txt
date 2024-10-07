@@ -917,3 +917,8 @@ cat mailassign/mailscript.py
 vi mailassign/mailscript.py
 source mailassign/mailcronjob.sh
 cat mailassign/cpudetails.txt
+vi mailassign/mailscript.py
+source mailassign/mailcronjob.sh
+cat mailassign/cpudetails.txt
+rm mailassign/cpudetails.txt
+source mailassign/mailcronjob.sh
