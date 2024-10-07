@@ -887,3 +887,4 @@ sudo systemctl restart crond
 clear
 cd mailassign
 ls
+sudo grep CRON /var/log/cron
