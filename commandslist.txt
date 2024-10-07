@@ -895,3 +895,9 @@ vi mailassign/mailcronjob.sh
 vi mailassign/mailscript.py
 sudo systemctl restart crond
 clear
+vi mailassign/mailscript.py
+source mailassign/mailcronjob.sh
+vi mailassign/mailscript.py
+source mailassign/mailcronjob.sh
+vi mailassign/mailscript.py
+source mailassign/mailcronjob.sh
