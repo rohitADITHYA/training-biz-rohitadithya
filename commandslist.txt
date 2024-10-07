@@ -865,3 +865,13 @@ cd mailassign
 ls
 cat mailcronjob.sh
 cat mailscript.py
+crontab -l
+cat /var/spool/mail/ec2-user
+clear
+cat mailcronjob.sh
+sudo systemctl restart cron
+cd ~
+sudo systemctl restart cron
+sudo service cron restart
+sudo systemctl restart crond
+clear
