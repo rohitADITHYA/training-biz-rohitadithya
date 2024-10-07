@@ -863,3 +863,5 @@ clear
 ls
 cd mailassign
 ls
+cat mailcronjob.sh
+cat mailscript.py
