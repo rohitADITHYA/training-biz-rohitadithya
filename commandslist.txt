@@ -947,3 +947,17 @@ vi mailassign/mailscript.py
 source mailassign/mailcronjob.sh
 vi mailassign/mailscript.py
 source mailassign/mailcronjob.sh
+vi mailassign/mailscript.py
+source mailassign/mailcronjob.sh
+vi mailassign/mailscript.py
+source mailassign/mailcronjob.sh
+vi mailassign/mailscript.py
+source mailassign/mailcronjob.sh
+clear
+crontab -e
+crontab -l
+vi mailassign/mailscript.py
+clear
+source mailassign/mailcronjob.sh
+crontab -l
+clear
