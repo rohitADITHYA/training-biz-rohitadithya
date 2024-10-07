@@ -888,3 +888,10 @@ clear
 cd mailassign
 ls
 sudo grep CRON /var/log/cron
+source mailcronjob.sh
+cd ~
+source mailassign/mailcronjob.sh
+vi mailassign/mailcronjob.sh
+vi mailassign/mailscript.py
+sudo systemctl restart crond
+clear
