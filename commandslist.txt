@@ -882,3 +882,8 @@ vi mailassign/mailcronjob.sh
 cat mailassign/cpudetails.txt
 vi mailassign/mailscript.py
 cat mailassign/mailscript.py
+vi mailassign/mailscript.py
+sudo systemctl restart crond
+clear
+cd mailassign
+ls
