@@ -907,3 +907,5 @@ source mailassign/mailcronjob.sh
 cat mailassign/cpudetails.txt
 vi mailassign/mailcronjob.sh
 source mailassign/mailcronjob.sh
+vi mailassign/mailscript.py
+source mailassign/mailcronjob.sh
