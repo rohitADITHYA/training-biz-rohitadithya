@@ -931,3 +931,11 @@ ls mailassign/
 cat mailassign/cpudetails.txt
 clear
 vi mailassign/mailscript.py
+crontab -l
+source mailassign/mailcronjob.sh
+vi mailassign/mailscript.py
+source mailassign/mailcronjob.sh
+vi mailassign/mailscript.py
+source mailassign/mailcronjob.sh
+vi mailassign/mailscript.py
+source mailassign/mailcronjob.sh
