@@ -922,3 +922,12 @@ source mailassign/mailcronjob.sh
 cat mailassign/cpudetails.txt
 rm mailassign/cpudetails.txt
 source mailassign/mailcronjob.sh
+ls mailassign/
+cat mailassign/cpudetails.txt
+rm mailassign/cpudetails.txt
+ls mailassign/
+source mailassign/mailcronjob.sh
+ls mailassign/
+cat mailassign/cpudetails.txt
+clear
+vi mailassign/mailscript.py
