@@ -875,3 +875,6 @@ sudo systemctl restart cron
 sudo service cron restart
 sudo systemctl restart crond
 clear
+crontab -l
+vi mailassign/mailcronjob.sh
+vi mailassign/mailscript.py
