@@ -961,3 +961,16 @@ clear
 source mailassign/mailcronjob.sh
 crontab -l
 clear
+ls
+mkdir vi_assign
+cd vi_assign
+ls
+cd ..
+mv Linux_Assignment_.CSV_RohitAdithya.csv vi_assign/Linux_Assignment_.CSV_RohitAdithya.csv
+cd vi_assign
+ls
+cd ~
+ls
+clear
+cd vi_assign
+ls
