@@ -995,3 +995,8 @@ clear
 cd ~
 clear
 Vi /vi_assign/Linux_Assignment_.CSV_RohitAdithya.csv
+vi /vi_assign/Linux_Assignment_.CSV_RohitAdithya.csv
+ls
+cd vi_assign
+ls
+vi Linux_Assignment_.CSV_RohitAdithya.csv
