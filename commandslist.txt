@@ -1000,3 +1000,5 @@ ls
 cd vi_assign
 ls
 vi Linux_Assignment_.CSV_RohitAdithya.csv
+ls -l
+crontab -e
