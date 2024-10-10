@@ -980,3 +980,4 @@ ls
 cd vi_assign
 ls
 vi Linux_Assignment_.CSV_RohitAdithya.csv
+cat /var/spool/mail/ec2-user
