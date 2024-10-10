@@ -990,3 +990,7 @@ ls
 vi Linux_Assignment_.CSV_RohitAdithya.csv
 sort -t, -k3 Linux_Assignment_.CSV_RohitAdithya.csv -o Linux_Assignment_.CSV_RohitAdithya.csv
 cat Linux_Assignment_.CSV_RohitAdithya.csv
+vi Linux_Assignment_.CSV_RohitAdithya.csv
+clear
+cd ~
+clear
