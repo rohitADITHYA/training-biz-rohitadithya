@@ -1094,3 +1094,12 @@ ps aux --sort=mem
 clear
 ps aux
 clear
+find . -type f -iname "*.log" 
+zip zipped.zip | find . -type f -iname "*.log"
+find . -type f -iname "*.log" | zip /home/ec2-user/zipped.zip {}
+ls
+find . -type f -iname "*.log" -exec zip /home/ec2-user/zipped.zip {} +
+ls
+cat zipped.zip
+x
+clear
