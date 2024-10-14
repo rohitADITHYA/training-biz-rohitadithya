@@ -1043,3 +1043,8 @@ ls -R1
 ls -R1h
 ls -Rh
 ls -h
+ls -R1l
+find . -type f -iname '*.txt' -size +1k
+clear
+find . -type f -iname '*.txt' -size +1k | wc -l
+ps
