@@ -1078,3 +1078,6 @@ clr
 clear
 ls -alh | sort -k 6Mr -k 7nr -k 8hr
 ls -alh | sort -k 6Mr -k 7nr -k 8h
+ls -alh | sort -k 6Mr -k 7nr -k 8hr
+ls -alhR | sort -k 6Mr -k 7nr -k 8hr
+clear
