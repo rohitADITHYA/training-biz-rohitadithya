@@ -1,97 +1,3 @@
-git --version
-#1727343577
-git init
-#1727343594
-git@github.com:rohitADITHYA/training-biz-rohitadithya.git
-#1727343610
-ssh git@github.com:rohitADITHYA/training-biz-rohitadithya.git
-#1727343914
-ls
-#1727343930
-cd training-biz-rohitadithya
-#1727343942
-ls
-#1727343959
-touch commandslist.txt
-#1727343962
-ls
-#1727343986
-rm training-biz-rohitadithya
-#1727344033
-rm -rf training-biz-rohitadithya
-#1727344035
-ls
-#1727344042
-cd ~
-#1727344043
-ls
-#1727344048
-rm -rf training-biz-rohitadithya
-#1727344050
-ls
-#1727344060
-cd git-training
-#1727344077
-ng-biz-rohitadithya.git
-#1727344097
-ls
-#1727344108
-vi gitcron.sh
-#1727344472
-corntab -l
-#1727344480
-vi gitcron.sh
-#1727344548
-cd ~
-#1727344554
-corntab -l
-#1727344561
-crontab -l
-#1727344568
-history
-#1727344604
-sudo grep CRON /var/log/cron
-#1727344641
-sudo systemctl restart crond
-#1727344643
-sudo grep CRON /var/log/cron
-#1727344727
-crontab -l
-#1727344733
-sudo grep CRON /var/log/cron
-#1727344759
-crontab -l
-#1727344772
-cat /home/ec2-user/git-training/gitcron.sh
-#1727344784
-cd /home/ec2-user/git-training/training-biz-rohitadithya
-#1727344812
-cat /home/ec2-user/git-training/training-biz-rohitadithya/commandslist.txt
-#1727344839
-sudo grep CRON /var/log/cron
-#1727344918
-cd ~
-#1727344942
-export HISTTIMEFORMAT="%F %T "
-#1727344951
-source ~/.bashrc
-#1727344966
-history > commandslist.txt
-#1727344983
-history
-#1727344995
-corntab -l
-#1727345002
-crontab -l
-#1727345039
-vi /home/ec2-user/git-training/gitcron.sh
-#1727345130
-sudo grep CRON /var/log/cron
-#1727345267
- git config --global --edit
-#1727345348
-sudo grep CRON /var/log/cron
-#1727345368
 git commit --amend --reset-author
 #1727345409
 sudo grep CRON /var/log/cron
@@ -1203,3 +1109,7 @@ yum
 yum install pip
 sudo root
 su root
+history
+ls -lR . | grep '^l'
+ls -lR . | grep '^l' >> symlinks.txt
+cat symlinks.txt
