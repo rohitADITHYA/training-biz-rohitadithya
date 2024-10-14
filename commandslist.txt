@@ -1002,3 +1002,11 @@ ls
 vi Linux_Assignment_.CSV_RohitAdithya.csv
 ls -l
 crontab -e
+clear
+ls
+cat file1.txt
+cat file.txt
+grep -lr rohit 
+grep -l rohit 
+ls | grep -l rohit
+ls | xargs grep -l rohit
