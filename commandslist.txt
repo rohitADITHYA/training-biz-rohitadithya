@@ -1196,3 +1196,10 @@ python virtualenv/virtualenv.py myproject
 chmod 777 /home/ec2-user/virtualenv/virtualenv.py
 python virtualenv/virtualenv.py myproject
 python virtualenv.py myproject
+python3 -m venv test
+ls
+pip3 list
+yum
+yum install pip
+sudo root
+su root
