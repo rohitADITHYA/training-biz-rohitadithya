@@ -1017,3 +1017,5 @@ grep -c rohit
 grep -c rohit file1.txt
 grep -lc rohit file1.txt
 ls | xargs grep -rc rohit
+grep -lc hit file1.txt
+grep -lcw hit file1.txt
