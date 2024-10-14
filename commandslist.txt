@@ -1048,3 +1048,16 @@ find . -type f -iname '*.txt' -size +1k
 clear
 find . -type f -iname '*.txt' -size +1k | wc -l
 ps
+ps -u rohit
+ps - s
+ps -s
+ps -a
+ps -t
+ps -l
+ps -l | sort -k10
+ps -l | sort -k10 | :.m0
+ps -l | sort -k10 
+clear
+ps -u ec2-user -l | sort -k10 
+ps -u ec2-user -lh | sort -k10 
+ps -u ec2-user
