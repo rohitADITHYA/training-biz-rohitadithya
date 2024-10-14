@@ -1142,3 +1142,4 @@ ps aux --sort=-%cpu | sort -k 2nr
 ps aux --sort=-%CPU --sort=-PID
 ps aux | sort -k 3nr 2nr
 ps aux | sort -k 3nr -k 2nr
+su rohit
