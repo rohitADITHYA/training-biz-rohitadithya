@@ -1173,3 +1173,10 @@ find . -type d | xargs find -I -type f
 find . -type d | xargs find -type f 
 find . -type d | xargs . find -type f 
 find . -type d | xargs find . -type f 
+clear
+ls | wc -l
+ls -R | wc -l
+find . --max-depth 3 | wc -l
+find . -maxdepth 3 | wc -l
+find -L /path/to/dir/search -xtype l -name "files"
+find -L . -xtype l -name "files"
