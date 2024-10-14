@@ -1156,3 +1156,8 @@ find . -type f -iname "*.*" | grep -v -E '/\.' | awk '/(\w+\.\w+)${print(\1)}'
 find . -type f -iname "*.*" | grep -v -E '/\.' | awk '/(\w+\.\w+)${print($1)}'
 find . -type f -iname "*.*" | grep -v -E '/\.' | awk '/(\w+)\.(\w+)${print($1.$2)}'
 find . -type f -iname "*.*" | grep -v -E '/\.' | awk '/(\w+\.\w+)$/{print($1)}'
+clear
+ls -l
+find . -type f -iname '*.txt' -size +500k
+find . -type f -size +500k
+ps aux
