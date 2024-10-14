@@ -1143,3 +1143,7 @@ ps aux --sort=-%CPU --sort=-PID
 ps aux | sort -k 3nr 2nr
 ps aux | sort -k 3nr -k 2nr
 su rohit
+find . -type f
+find . -type f -iname "*.*"
+find . -type f -iname -E "\w+.\w+"
+find . -type f -iname "\w+.\w+"
