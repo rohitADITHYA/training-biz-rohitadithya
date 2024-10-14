@@ -1066,3 +1066,15 @@ ps -u ec2-user -l | sort -k10 -n
 clear
 ls -alh
 ls -alhR 
+ls -alhR | sort -k 6Mr -k 7r -k 8h
+clea
+clear
+ls -alhR | sort -k 6Mr -k 7r -k 8h
+ls -alh
+ls -alh | sort -k 6Mr -k 7r -k 8h
+ls -alh | sort -k 6Mr -k 7nr -k 8h
+ls -alh | sort -k 6Mr -k 7nr -k 8hr
+clr
+clear
+ls -alh | sort -k 6Mr -k 7nr -k 8hr
+ls -alh | sort -k 6Mr -k 7nr -k 8h
