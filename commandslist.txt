@@ -1106,3 +1106,13 @@ clear
 sudo rohit
 cd ~
 clear
+cleaar
+clear
+date=$(date)
+echo "Current date is $date"
+$date
+date=$(date)
+echo "Current date is $date"
+$date
+$(date)
+grep "*.txt" .
