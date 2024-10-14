@@ -1061,3 +1061,8 @@ clear
 ps -u ec2-user -l | sort -k10 
 ps -u ec2-user -lh | sort -k10 
 ps -u ec2-user
+ps -u ec2-user -l | sort -k10 
+ps -u ec2-user -l | sort -k10 -n
+clear
+ls -alh
+ls -alhR 
