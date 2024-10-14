@@ -1116,3 +1116,12 @@ echo "Current date is $date"
 $date
 $(date)
 grep "*.txt" .
+grep "*.txt" -l
+grep "*.txt"
+grep .txt
+find . -type f -iname "*.txt" -exec grep .txt {} ;
+find . -type f -iname "*.txt" -exec grep .txt {}+
+find . -type f -iname "*.txt" -exec grep '.txt' {}+
+find . -type f -iname "*.txt" -exec grep '.txt' {} \;
+clear
+find . -type f -iname "*.txt" -exec grep '.txt' {} \;
