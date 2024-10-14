@@ -1136,3 +1136,5 @@ find . -type f -iname "*.txt" -exec grep '.txt' {} \;
 find . -type f -iname "*.txt" -exec xargs grep '.txt' 
 find . -type f -iname "*.txt" -exec xargs grep '.txt' ;
 find . -type f -iname "*.txt" -exec xargs grep '.txt';
+clear
+ps aux --sort=-%cpu
