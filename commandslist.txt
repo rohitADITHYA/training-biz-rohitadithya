@@ -1,13 +1,3 @@
-git commit --amend --reset-author
-#1727345409
-sudo grep CRON /var/log/cron
-#1727345529
-history > commandslist.txt
-#1727345533
-history
-#1727345539
-sudo grep CRON /var/log/cron
-#1727345555
 cat /home/ec2-user/mycron.sh
 #1727345565
 cat /mycronlog.log
@@ -1113,3 +1103,4 @@ history
 ls -lR . | grep '^l'
 ls -lR . | grep '^l' >> symlinks.txt
 cat symlinks.txt
+su rohit
