@@ -1180,3 +1180,19 @@ find . --max-depth 3 | wc -l
 find . -maxdepth 3 | wc -l
 find -L /path/to/dir/search -xtype l -name "files"
 find -L . -xtype l -name "files"
+sudo find -L /etc/ -xtype l -ls
+clear
+sudo find -L /etc/ -xtype l -ls
+clear
+python virtualenv/virtualenv.py myproject
+mkdir virtualenv
+ls
+cd virtualenv
+touch virtualenv
+rm virtualenv
+touch virtualenv.py
+ls
+python virtualenv/virtualenv.py myproject
+chmod 777 /home/ec2-user/virtualenv/virtualenv.py
+python virtualenv/virtualenv.py myproject
+python virtualenv.py myproject
