@@ -1133,3 +1133,6 @@ find . -type f | grep -E '.sh'
 find . -type f | grep -E '\.sh'
 clear
 find . -type f -iname "*.txt" -exec grep '.txt' {} \;
+find . -type f -iname "*.txt" -exec xargs grep '.txt' 
+find . -type f -iname "*.txt" -exec xargs grep '.txt' ;
+find . -type f -iname "*.txt" -exec xargs grep '.txt';
