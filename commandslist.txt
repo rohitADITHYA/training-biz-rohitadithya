@@ -1010,3 +1010,10 @@ grep -lr rohit
 grep -l rohit 
 ls | grep -l rohit
 ls | xargs grep -l rohit
+ls | xargs grep -lr rohit
+ls | xargs grep -lrc rohit
+grep -lc rohit
+grep -c rohit
+grep -c rohit file1.txt
+grep -lc rohit file1.txt
+ls | xargs grep -rc rohit
