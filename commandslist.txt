@@ -1147,3 +1147,8 @@ find . -type f
 find . -type f -iname "*.*"
 find . -type f -iname -E "\w+.\w+"
 find . -type f -iname "\w+.\w+"
+find . -type f -iname "*.*" | grep -v '/.' 
+find . -type f -iname "*.*" | grep '/.' 
+find . -type f -iname "*.*" | grep '/\.' 
+find . -type f -iname "*.*" | grep -E '/\.' 
+find . -type f -iname "*.*" | grep -v -E '/\.' 
