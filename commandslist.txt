@@ -1028,3 +1028,18 @@ find . -iname '*.txt' -size 1
 find . -iname '*.txt' | ls 
 find . -iname '*.txt' -size +1M
 find . -type f -iname '*.txt' -size +1M
+ls -RS
+du -r
+du
+du -h
+ls -rl
+find . -type f -iname '*.dmp' -size +1M
+find . -type f -iname '*.dmp' -size +1K
+find . -type f -iname '*.dmp' -size +1k
+find . -type f -iname '*.txt' -size +1k
+clear
+ls -r
+ls -R1
+ls -R1h
+ls -Rh
+ls -h
