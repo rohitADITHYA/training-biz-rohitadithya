@@ -1023,3 +1023,8 @@ clear
 ls -R
 ls -R1
 clear
+find . -iname '*.txt' 
+find . -iname '*.txt' -size 1
+find . -iname '*.txt' | ls 
+find . -iname '*.txt' -size +1M
+find . -type f -iname '*.txt' -size +1M
