@@ -1162,3 +1162,14 @@ find . -type d -exec find {} -type f ;
 find . -type d -exec find {}+ -type f
 find . -type d | xargs find -0 -type f | wc -l
 find . -type d | xargs find -I -type f | wc -l
+find . -type d -exec find {}\ -type f --max-depth 1
+find . -type d -exec find . -type f --max-depth 1
+find -L /var/www/ -type l
+clear
+find . -type f 
+find . -type d
+find . -type d | xargs find -0 -type f 
+find . -type d | xargs find -I -type f 
+find . -type d | xargs find -type f 
+find . -type d | xargs . find -type f 
+find . -type d | xargs find . -type f 
