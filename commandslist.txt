@@ -1081,3 +1081,16 @@ ls -alh | sort -k 6Mr -k 7nr -k 8h
 ls -alh | sort -k 6Mr -k 7nr -k 8hr
 ls -alhR | sort -k 6Mr -k 7nr -k 8hr
 clear
+ps aux
+ps aux --sort=%mem
+ps aux --sort=%memr
+ps aux --sort=%mem -r
+ps aux --sort=-%mem 
+ps aux --sort=-%mem | grep ^ec2-user
+clear
+ps aux --sort=-%mem
+ps aux --sort=-mem
+ps aux --sort=mem
+clear
+ps aux
+clear
